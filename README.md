@@ -20,6 +20,6 @@ To import this content to your stack, perform the following steps:
 
 	```csdx cm:seed -r "contentstack/stack-starter-app"```
 
-Refer to the [Seed command documentation](https://www.contentstack.com/docs/developers/cli/import-content-using-seed-command/) to learn more. 
+Refer to the [Seed command documentation](https://www.contentstack.com/docs/developers/cli/import-content-using-the-seed-command/) to learn more. 
 
 Also, we are soon coming up with starter apps where you can view this content instantly.
