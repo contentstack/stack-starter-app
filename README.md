@@ -8,7 +8,7 @@ To import this content to your stack, perform the following steps:
 
 	```npm i -g @contentstack/cli``` 
 
-2. By default, CLI uses the North America region. To use the Europe region, run this command in your terminal:
+2. By default, CLI uses the North America region. To use the Europe region, run this command in your terminal: 
 
 	```csdx config:set:region EU```
 
