@@ -1,1 +1,53 @@
-{"blt6f4046f0d8dea679":{"deploy_content":false,"servers":[],"urls":[{"url":"","locale":"en-us"}],"name":"production","_version":2,"created_at":"2021-02-09T07:28:06.633Z","updated_at":"2021-02-09T07:28:06.633Z","ACL":[]},"blt19d47fc0d6304e8b":{"deploy_content":false,"servers":[],"urls":[{"url":"","locale":"en-us"}],"name":"preview","created_at":"2021-03-24T10:00:31.763Z","updated_at":"2021-03-24T10:00:31.763Z","ACL":[],"_version":1},"blt3dfe0ed2ddf5fb14":{"deploy_content":false,"servers":[],"urls":[{"url":"http://localhost:3000","locale":"en-us"}],"name":"development","_version":2,"created_at":"2021-02-09T07:28:06.658Z","updated_at":"2021-03-24T10:02:25.225Z","ACL":[]}}
+{
+  "blt12968b3718077942": {
+    "stackHeaders": {
+      "api_key": "api_key"
+    },
+    "urlPath": "/environments/production",
+    "urls": [
+      {
+        "url": "",
+        "locale": "en-us"
+      }
+    ],
+    "name": "production",
+    "_version": 3,
+    "uid": "blt12968b3718077942",
+    "created_at": "2022-06-01T06:21:25.236Z",
+    "updated_at": "2024-02-26T06:47:59.919Z"
+  },
+  "blta231f8cba2be9b18": {
+    "stackHeaders": {
+      "api_key": "api_key"
+    },
+    "urlPath": "/environments/preview",
+    "urls": [
+      {
+        "url": "",
+        "locale": "en-us"
+      }
+    ],
+    "name": "preview",
+    "_version": 2,
+    "uid": "blta231f8cba2be9b18",
+    "created_at": "2022-06-01T06:21:25.240Z",
+    "updated_at": "2024-02-26T06:47:48.961Z"
+  },
+  "blt5ebb94c4d8e301eb": {
+    "stackHeaders": {
+      "api_key": "api_key"
+    },
+    "urlPath": "/environments/development",
+    "urls": [
+      {
+        "url": "https://localhost:3000",
+        "locale": "en-us"
+      }
+    ],
+    "name": "development",
+    "_version": 15,
+    "uid": "blt5ebb94c4d8e301eb",
+    "created_at": "2022-06-01T06:21:26.471Z",
+    "updated_at": "2024-02-26T06:47:40.090Z"
+  }
+}
