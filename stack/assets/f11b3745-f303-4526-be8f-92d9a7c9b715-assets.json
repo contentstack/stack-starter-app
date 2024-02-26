@@ -1,10 +1,10 @@
 {
-  "bltf29aa57cd74eca6f": {
+  "blt4a3759adb1809621": {
     "stackHeaders": {
-      "api_key": "<api_key>"
+      "api_key": "api_key"
     },
-    "urlPath": "/assets/bltf29aa57cd74eca6f",
-    "uid": "bltf29aa57cd74eca6f",
+    "urlPath": "/assets/blt4a3759adb1809621",
+    "uid": "blt4a3759adb1809621",
     "content_type": "image/svg+xml",
     "file_size": "1314",
     "tags": [],
@@ -27,1929 +27,40 @@
       }
     },
     "is_dir": false,
-    "parent_uid": "blt2b47945799d4a652",
+    "parent_uid": "blt9e4e6644c6f22ad5",
     "_version": 1,
     "title": "Cloud Computing",
     "description": "",
     "publish_details": [
       {
-        "environment": "blt37dde668c27e53af",
+        "environment": "blt12968b3718077942",
         "locale": "en-us",
-        "time": "2024-02-23T09:03:27.423Z",
+        "time": "2022-06-01T06:21:36.347Z",
         "user": "userUID",
         "version": 1
       },
       {
-        "environment": "blt736d333d806821d9",
+        "environment": "blt5ebb94c4d8e301eb",
         "locale": "en-us",
-        "time": "2024-02-23T09:03:27.430Z",
+        "time": "2022-06-01T06:21:36.362Z",
         "user": "userUID",
         "version": 1
       },
       {
-        "environment": "blte8220d7ae8cb31c0",
+        "environment": "blta231f8cba2be9b18",
         "locale": "en-us",
-        "time": "2024-02-23T09:03:27.434Z",
-        "user": "userUID",
-        "version": 1
-      }
-    ]
-  },
-  "blt5f45f7899d405556": {
-    "stackHeaders": {
-      "api_key": "<api_key>"
-    },
-    "urlPath": "/assets/blt5f45f7899d405556",
-    "uid": "blt5f45f7899d405556",
-    "content_type": "image/svg+xml",
-    "file_size": "1288",
-    "tags": [],
-    "filename": "facebook.svg",
-    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
-    "ACL": {
-      "roles": [],
-      "others": {
-        "read": false,
-        "create": false,
-        "update": false,
-        "delete": false,
-        "sub_acl": {
-          "read": false,
-          "create": false,
-          "update": false,
-          "delete": false,
-          "publish": false
-        }
-      }
-    },
-    "is_dir": false,
-    "parent_uid": "blt8843af47602558da",
-    "_version": 1,
-    "title": "facebook.svg",
-    "publish_details": [
-      {
-        "environment": "blt37dde668c27e53af",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:27.752Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blt736d333d806821d9",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:27.759Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blte8220d7ae8cb31c0",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:27.764Z",
+        "time": "2022-06-01T06:21:36.368Z",
         "user": "userUID",
         "version": 1
       }
     ]
   },
-  "blt41a2bfebcccaee1c": {
+  "blt9b789cd23e1a26d1": {
     "stackHeaders": {
-      "api_key": "<api_key>"
+      "api_key": "api_key"
     },
-    "urlPath": "/assets/blt41a2bfebcccaee1c",
-    "uid": "blt41a2bfebcccaee1c",
-    "content_type": "image/svg+xml",
-    "file_size": "2584878",
-    "tags": [],
-    "filename": "map-of-brimingham-city.svg",
-    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
-    "ACL": {
-      "roles": [],
-      "others": {
-        "read": false,
-        "create": false,
-        "update": false,
-        "delete": false,
-        "sub_acl": {
-          "read": false,
-          "create": false,
-          "update": false,
-          "delete": false,
-          "publish": false
-        }
-      }
-    },
-    "is_dir": false,
-    "parent_uid": "bltb86b76aeeb6f212a",
-    "_version": 1,
-    "title": "Map Of Birmingham City",
-    "description": "",
-    "publish_details": [
-      {
-        "environment": "blt37dde668c27e53af",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:28.262Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blt736d333d806821d9",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:28.268Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blte8220d7ae8cb31c0",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:28.274Z",
-        "user": "userUID",
-        "version": 1
-      }
-    ]
-  },
-  "blt8dd0d0c11ddb3232": {
-    "stackHeaders": {
-      "api_key": "<api_key>"
-    },
-    "urlPath": "/assets/blt8dd0d0c11ddb3232",
-    "uid": "blt8dd0d0c11ddb3232",
-    "content_type": "image/svg+xml",
-    "file_size": "806",
-    "tags": [],
-    "filename": "Instagram.svg",
-    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
-    "ACL": {
-      "roles": [],
-      "others": {
-        "read": false,
-        "create": false,
-        "update": false,
-        "delete": false,
-        "sub_acl": {
-          "read": false,
-          "create": false,
-          "update": false,
-          "delete": false,
-          "publish": false
-        }
-      }
-    },
-    "is_dir": false,
-    "parent_uid": "blt8843af47602558da",
-    "_version": 1,
-    "title": "Instagram.svg",
-    "description": "",
-    "publish_details": [
-      {
-        "environment": "blt37dde668c27e53af",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:28.605Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blt736d333d806821d9",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:28.609Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blte8220d7ae8cb31c0",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:28.613Z",
-        "user": "userUID",
-        "version": 1
-      }
-    ]
-  },
-  "blt63f733e2489565cb": {
-    "stackHeaders": {
-      "api_key": "<api_key>"
-    },
-    "urlPath": "/assets/blt63f733e2489565cb",
-    "uid": "blt63f733e2489565cb",
-    "content_type": "image/svg+xml",
-    "file_size": "1314",
-    "tags": [],
-    "filename": "bucket2.svg",
-    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
-    "ACL": {
-      "roles": [],
-      "others": {
-        "read": false,
-        "create": false,
-        "update": false,
-        "delete": false,
-        "sub_acl": {
-          "read": false,
-          "create": false,
-          "update": false,
-          "delete": false,
-          "publish": false
-        }
-      }
-    },
-    "is_dir": false,
-    "parent_uid": "blt8843af47602558da",
-    "_version": 1,
-    "title": "bucket2.svg",
-    "publish_details": [
-      {
-        "environment": "blt37dde668c27e53af",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:28.971Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blt736d333d806821d9",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:28.975Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blte8220d7ae8cb31c0",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:28.978Z",
-        "user": "userUID",
-        "version": 1
-      }
-    ]
-  },
-  "blt120665b187a0a651": {
-    "stackHeaders": {
-      "api_key": "<api_key>"
-    },
-    "urlPath": "/assets/blt120665b187a0a651",
-    "uid": "blt120665b187a0a651",
-    "content_type": "image/svg+xml",
-    "file_size": "579",
-    "tags": [],
-    "filename": "Icon_Artwork_1.svg",
-    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
-    "ACL": {
-      "roles": [],
-      "others": {
-        "read": false,
-        "create": false,
-        "update": false,
-        "delete": false,
-        "sub_acl": {
-          "read": false,
-          "create": false,
-          "update": false,
-          "delete": false,
-          "publish": false
-        }
-      }
-    },
-    "is_dir": false,
-    "parent_uid": "blt083fba56fa3f4dc4",
-    "_version": 1,
-    "title": "Icon_Artwork_1.svg",
-    "publish_details": [
-      {
-        "environment": "blt37dde668c27e53af",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:29.308Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blt736d333d806821d9",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:29.312Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blte8220d7ae8cb31c0",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:29.315Z",
-        "user": "userUID",
-        "version": 1
-      }
-    ]
-  },
-  "blt8069072121fd9a24": {
-    "stackHeaders": {
-      "api_key": "<api_key>"
-    },
-    "urlPath": "/assets/blt8069072121fd9a24",
-    "uid": "blt8069072121fd9a24",
-    "content_type": "image/svg+xml",
-    "file_size": "706",
-    "tags": [],
-    "filename": "bucket1.svg",
-    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
-    "ACL": {
-      "roles": [],
-      "others": {
-        "read": false,
-        "create": false,
-        "update": false,
-        "delete": false,
-        "sub_acl": {
-          "read": false,
-          "create": false,
-          "update": false,
-          "delete": false,
-          "publish": false
-        }
-      }
-    },
-    "is_dir": false,
-    "parent_uid": "blt8843af47602558da",
-    "_version": 1,
-    "title": "bucket1.svg",
-    "publish_details": [
-      {
-        "environment": "blt37dde668c27e53af",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:29.711Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blt736d333d806821d9",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:29.717Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blte8220d7ae8cb31c0",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:29.723Z",
-        "user": "userUID",
-        "version": 1
-      }
-    ]
-  },
-  "blte71109529dab54a5": {
-    "stackHeaders": {
-      "api_key": "<api_key>"
-    },
-    "urlPath": "/assets/blte71109529dab54a5",
-    "uid": "blte71109529dab54a5",
-    "content_type": "image/svg+xml",
-    "file_size": "1849",
-    "tags": [],
-    "filename": "Icon_Artwork_2.svg",
-    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
-    "ACL": {
-      "roles": [],
-      "others": {
-        "read": false,
-        "create": false,
-        "update": false,
-        "delete": false,
-        "sub_acl": {
-          "read": false,
-          "create": false,
-          "update": false,
-          "delete": false,
-          "publish": false
-        }
-      }
-    },
-    "is_dir": false,
-    "parent_uid": "blt083fba56fa3f4dc4",
-    "_version": 1,
-    "title": "Icon_Artwork_2.svg",
-    "publish_details": [
-      {
-        "environment": "blt37dde668c27e53af",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:30.032Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blt736d333d806821d9",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:30.037Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blte8220d7ae8cb31c0",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:30.042Z",
-        "user": "userUID",
-        "version": 1
-      }
-    ]
-  },
-  "blt23a8e98662b40560": {
-    "stackHeaders": {
-      "api_key": "<api_key>"
-    },
-    "urlPath": "/assets/blt23a8e98662b40560",
-    "uid": "blt23a8e98662b40560",
-    "content_type": "image/jpeg",
-    "file_size": "2850",
-    "tags": [],
-    "filename": "ben.jpeg",
-    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
-    "ACL": {
-      "roles": [],
-      "others": {
-        "read": false,
-        "create": false,
-        "update": false,
-        "delete": false,
-        "sub_acl": {
-          "read": false,
-          "create": false,
-          "update": false,
-          "delete": false,
-          "publish": false
-        }
-      }
-    },
-    "is_dir": false,
-    "parent_uid": "bltf686c34e844a9944",
-    "_version": 1,
-    "title": "ben.jpeg",
-    "publish_details": [
-      {
-        "environment": "blt37dde668c27e53af",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:30.336Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blt736d333d806821d9",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:30.339Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blte8220d7ae8cb31c0",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:30.343Z",
-        "user": "userUID",
-        "version": 1
-      }
-    ]
-  },
-  "blt62fa9a2d45c6d18e": {
-    "stackHeaders": {
-      "api_key": "<api_key>"
-    },
-    "urlPath": "/assets/blt62fa9a2d45c6d18e",
-    "uid": "blt62fa9a2d45c6d18e",
-    "content_type": "image/svg+xml",
-    "file_size": "1053",
-    "tags": [],
-    "filename": "bucket3.svg",
-    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
-    "ACL": {
-      "roles": [],
-      "others": {
-        "read": false,
-        "create": false,
-        "update": false,
-        "delete": false,
-        "sub_acl": {
-          "read": false,
-          "create": false,
-          "update": false,
-          "delete": false,
-          "publish": false
-        }
-      }
-    },
-    "is_dir": false,
-    "parent_uid": "blt8843af47602558da",
-    "_version": 1,
-    "title": "bucket3.svg",
-    "publish_details": [
-      {
-        "environment": "blt37dde668c27e53af",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:30.726Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blt736d333d806821d9",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:30.729Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blte8220d7ae8cb31c0",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:30.731Z",
-        "user": "userUID",
-        "version": 1
-      }
-    ]
-  },
-  "blt0907a49af449a868": {
-    "stackHeaders": {
-      "api_key": "<api_key>"
-    },
-    "urlPath": "/assets/blt0907a49af449a868",
-    "uid": "blt0907a49af449a868",
-    "content_type": "image/svg+xml",
-    "file_size": "706",
-    "tags": [],
-    "filename": "artificial-intelligence.svg",
-    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
-    "ACL": {
-      "roles": [],
-      "others": {
-        "read": false,
-        "create": false,
-        "update": false,
-        "delete": false,
-        "sub_acl": {
-          "read": false,
-          "create": false,
-          "update": false,
-          "delete": false,
-          "publish": false
-        }
-      }
-    },
-    "is_dir": false,
-    "parent_uid": "blt2b47945799d4a652",
-    "_version": 1,
-    "title": "Artificial Intelligence.svg",
-    "description": "",
-    "publish_details": [
-      {
-        "environment": "blt37dde668c27e53af",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:31.028Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blt736d333d806821d9",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:31.033Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blte8220d7ae8cb31c0",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:31.036Z",
-        "user": "userUID",
-        "version": 1
-      }
-    ]
-  },
-  "bltedb82e78e02cc675": {
-    "stackHeaders": {
-      "api_key": "<api_key>"
-    },
-    "urlPath": "/assets/bltedb82e78e02cc675",
-    "uid": "bltedb82e78e02cc675",
-    "content_type": "image/svg+xml",
-    "file_size": "54029",
-    "tags": [],
-    "filename": "winning-digital-strategy.svg",
-    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
-    "ACL": {
-      "roles": [],
-      "others": {
-        "read": false,
-        "create": false,
-        "update": false,
-        "delete": false,
-        "sub_acl": {
-          "read": false,
-          "create": false,
-          "update": false,
-          "delete": false,
-          "publish": false
-        }
-      }
-    },
-    "is_dir": false,
-    "parent_uid": "blt2b47945799d4a652",
-    "_version": 1,
-    "title": "Winning Digital Strategy",
-    "description": "",
-    "publish_details": [
-      {
-        "environment": "blt37dde668c27e53af",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:31.502Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blt736d333d806821d9",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:31.505Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blte8220d7ae8cb31c0",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:31.508Z",
-        "user": "userUID",
-        "version": 1
-      }
-    ]
-  },
-  "blt012390823e8a1abb": {
-    "stackHeaders": {
-      "api_key": "<api_key>"
-    },
-    "urlPath": "/assets/blt012390823e8a1abb",
-    "uid": "blt012390823e8a1abb",
-    "content_type": "image/svg+xml",
-    "file_size": "53205",
-    "tags": [],
-    "filename": "headless-cms-solution.svg",
-    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
-    "ACL": {
-      "roles": [],
-      "others": {
-        "read": false,
-        "create": false,
-        "update": false,
-        "delete": false,
-        "sub_acl": {
-          "read": false,
-          "create": false,
-          "update": false,
-          "delete": false,
-          "publish": false
-        }
-      }
-    },
-    "is_dir": false,
-    "parent_uid": "blt70ba6ec8b02a4765",
-    "_version": 1,
-    "title": "Headless CMS Solution",
-    "description": "",
-    "publish_details": [
-      {
-        "environment": "blt37dde668c27e53af",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:31.819Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blt736d333d806821d9",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:31.823Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blte8220d7ae8cb31c0",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:31.826Z",
-        "user": "userUID",
-        "version": 1
-      }
-    ]
-  },
-  "blt01e0a219145be5c0": {
-    "stackHeaders": {
-      "api_key": "<api_key>"
-    },
-    "urlPath": "/assets/blt01e0a219145be5c0",
-    "uid": "blt01e0a219145be5c0",
-    "content_type": "image/svg+xml",
-    "file_size": "49454",
-    "tags": [],
-    "filename": "help-for-the-next-step.svg",
-    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
-    "ACL": {
-      "roles": [],
-      "others": {
-        "read": false,
-        "create": false,
-        "update": false,
-        "delete": false,
-        "sub_acl": {
-          "read": false,
-          "create": false,
-          "update": false,
-          "delete": false,
-          "publish": false
-        }
-      }
-    },
-    "is_dir": false,
-    "parent_uid": "blt2b47945799d4a652",
-    "_version": 1,
-    "title": "help-for-the-next-step.svg",
-    "publish_details": [
-      {
-        "environment": "blt37dde668c27e53af",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:32.216Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blt736d333d806821d9",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:32.220Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blte8220d7ae8cb31c0",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:32.223Z",
-        "user": "userUID",
-        "version": 1
-      }
-    ]
-  },
-  "bltd4bf52202a4f5e6a": {
-    "stackHeaders": {
-      "api_key": "<api_key>"
-    },
-    "urlPath": "/assets/bltd4bf52202a4f5e6a",
-    "uid": "bltd4bf52202a4f5e6a",
-    "content_type": "image/svg+xml",
-    "file_size": "1436",
-    "tags": [],
-    "filename": "Twitter.svg",
-    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
-    "ACL": {
-      "roles": [],
-      "others": {
-        "read": false,
-        "create": false,
-        "update": false,
-        "delete": false,
-        "sub_acl": {
-          "read": false,
-          "create": false,
-          "update": false,
-          "delete": false,
-          "publish": false
-        }
-      }
-    },
-    "is_dir": false,
-    "parent_uid": "blt8843af47602558da",
-    "_version": 1,
-    "title": "Twitter.svg",
-    "publish_details": [
-      {
-        "environment": "blt37dde668c27e53af",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:32.481Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blt736d333d806821d9",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:32.485Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blte8220d7ae8cb31c0",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:32.489Z",
-        "user": "userUID",
-        "version": 1
-      }
-    ]
-  },
-  "blt1fae5036e3335310": {
-    "stackHeaders": {
-      "api_key": "<api_key>"
-    },
-    "urlPath": "/assets/blt1fae5036e3335310",
-    "uid": "blt1fae5036e3335310",
-    "content_type": "image/svg+xml",
-    "file_size": "32524",
-    "tags": [],
-    "filename": "data-mining.svg",
-    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
-    "ACL": {
-      "roles": [],
-      "others": {
-        "read": false,
-        "create": false,
-        "update": false,
-        "delete": false,
-        "sub_acl": {
-          "read": false,
-          "create": false,
-          "update": false,
-          "delete": false,
-          "publish": false
-        }
-      }
-    },
-    "is_dir": false,
-    "parent_uid": "blt70ba6ec8b02a4765",
-    "_version": 1,
-    "title": "Data Mining",
-    "description": "",
-    "publish_details": [
-      {
-        "environment": "blt37dde668c27e53af",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:32.817Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blt736d333d806821d9",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:32.823Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blte8220d7ae8cb31c0",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:32.829Z",
-        "user": "userUID",
-        "version": 1
-      }
-    ]
-  },
-  "bltb14f7e0c5bfd5494": {
-    "stackHeaders": {
-      "api_key": "<api_key>"
-    },
-    "urlPath": "/assets/bltb14f7e0c5bfd5494",
-    "uid": "bltb14f7e0c5bfd5494",
-    "content_type": "image/svg+xml",
-    "file_size": "1053",
-    "tags": [],
-    "filename": "security.svg",
-    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
-    "ACL": {
-      "roles": [],
-      "others": {
-        "read": false,
-        "create": false,
-        "update": false,
-        "delete": false,
-        "sub_acl": {
-          "read": false,
-          "create": false,
-          "update": false,
-          "delete": false,
-          "publish": false
-        }
-      }
-    },
-    "is_dir": false,
-    "parent_uid": "blt2b47945799d4a652",
-    "_version": 1,
-    "title": "Security",
-    "description": "",
-    "publish_details": [
-      {
-        "environment": "blt37dde668c27e53af",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:33.168Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blt736d333d806821d9",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:33.174Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blte8220d7ae8cb31c0",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:33.179Z",
-        "user": "userUID",
-        "version": 1
-      }
-    ]
-  },
-  "blt73c6cf53620755b3": {
-    "stackHeaders": {
-      "api_key": "<api_key>"
-    },
-    "urlPath": "/assets/blt73c6cf53620755b3",
-    "uid": "blt73c6cf53620755b3",
-    "content_type": "image/png",
-    "file_size": "99632",
-    "tags": [],
-    "filename": "Charlotte_Bronte_Headshot.png",
-    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
-    "ACL": {
-      "roles": [],
-      "others": {
-        "read": false,
-        "create": false,
-        "update": false,
-        "delete": false,
-        "sub_acl": {
-          "read": false,
-          "create": false,
-          "update": false,
-          "delete": false,
-          "publish": false
-        }
-      }
-    },
-    "is_dir": false,
-    "parent_uid": "bltf686c34e844a9944",
-    "_version": 1,
-    "title": "Charlotte Bronte",
-    "description": "",
-    "publish_details": [
-      {
-        "environment": "blt37dde668c27e53af",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:33.570Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blt736d333d806821d9",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:33.574Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blte8220d7ae8cb31c0",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:33.577Z",
-        "user": "userUID",
-        "version": 1
-      }
-    ]
-  },
-  "blt984f636cbfca046c": {
-    "stackHeaders": {
-      "api_key": "<api_key>"
-    },
-    "urlPath": "/assets/blt984f636cbfca046c",
-    "uid": "blt984f636cbfca046c",
-    "content_type": "image/svg+xml",
-    "file_size": "47003",
-    "tags": [],
-    "filename": "modern-cloud-ecosystem.svg",
-    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
-    "ACL": {
-      "roles": [],
-      "others": {
-        "read": false,
-        "create": false,
-        "update": false,
-        "delete": false,
-        "sub_acl": {
-          "read": false,
-          "create": false,
-          "update": false,
-          "delete": false,
-          "publish": false
-        }
-      }
-    },
-    "is_dir": false,
-    "parent_uid": "blt70ba6ec8b02a4765",
-    "_version": 1,
-    "title": "Modern Cloud Ecosystem",
-    "description": "",
-    "publish_details": [
-      {
-        "environment": "blt37dde668c27e53af",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:33.893Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blt736d333d806821d9",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:33.899Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blte8220d7ae8cb31c0",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:33.905Z",
-        "user": "userUID",
-        "version": 1
-      }
-    ]
-  },
-  "blt26de581b4ead2119": {
-    "stackHeaders": {
-      "api_key": "<api_key>"
-    },
-    "urlPath": "/assets/blt26de581b4ead2119",
-    "uid": "blt26de581b4ead2119",
-    "content_type": "image/jpeg",
-    "file_size": "25872",
-    "tags": [],
-    "filename": "W._E._B._Du_Bois_Headshot.jpg",
-    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
-    "ACL": {
-      "roles": [],
-      "others": {
-        "read": false,
-        "create": false,
-        "update": false,
-        "delete": false,
-        "sub_acl": {
-          "read": false,
-          "create": false,
-          "update": false,
-          "delete": false,
-          "publish": false
-        }
-      }
-    },
-    "is_dir": false,
-    "parent_uid": "bltf686c34e844a9944",
-    "_version": 1,
-    "title": "W.E. B. Du Bois",
-    "description": "",
-    "publish_details": [
-      {
-        "environment": "blt37dde668c27e53af",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:34.287Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blt736d333d806821d9",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:34.291Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blte8220d7ae8cb31c0",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:34.293Z",
-        "user": "userUID",
-        "version": 1
-      }
-    ]
-  },
-  "blt640eebba10ad0029": {
-    "stackHeaders": {
-      "api_key": "<api_key>"
-    },
-    "urlPath": "/assets/blt640eebba10ad0029",
-    "uid": "blt640eebba10ad0029",
-    "content_type": "image/jpeg",
-    "file_size": "148713",
-    "tags": [],
-    "filename": "Mark_Twain_Headshot.jpg",
-    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
-    "ACL": {
-      "roles": [],
-      "others": {
-        "read": false,
-        "create": false,
-        "update": false,
-        "delete": false,
-        "sub_acl": {
-          "read": false,
-          "create": false,
-          "update": false,
-          "delete": false,
-          "publish": false
-        }
-      }
-    },
-    "is_dir": false,
-    "parent_uid": "bltf686c34e844a9944",
-    "_version": 1,
-    "title": "Mark Twain",
-    "description": "",
-    "publish_details": [
-      {
-        "environment": "blt37dde668c27e53af",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:34.585Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blt736d333d806821d9",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:34.589Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blte8220d7ae8cb31c0",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:34.592Z",
-        "user": "userUID",
-        "version": 1
-      }
-    ]
-  },
-  "blta9f8f853f5c93222": {
-    "stackHeaders": {
-      "api_key": "<api_key>"
-    },
-    "urlPath": "/assets/blta9f8f853f5c93222",
-    "uid": "blta9f8f853f5c93222",
-    "content_type": "image/svg+xml",
-    "file_size": "11085",
-    "tags": [],
-    "filename": "company-logo.svg",
-    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
-    "ACL": {
-      "roles": [],
-      "others": {
-        "read": false,
-        "create": false,
-        "update": false,
-        "delete": false,
-        "sub_acl": {
-          "read": false,
-          "create": false,
-          "update": false,
-          "delete": false,
-          "publish": false
-        }
-      }
-    },
-    "is_dir": false,
-    "parent_uid": "blt7711133380d02fb5",
-    "_version": 1,
-    "title": "Company Logo",
-    "description": "",
-    "publish_details": [
-      {
-        "environment": "blt37dde668c27e53af",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:34.987Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blt736d333d806821d9",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:34.990Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blte8220d7ae8cb31c0",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:34.993Z",
-        "user": "userUID",
-        "version": 1
-      }
-    ]
-  },
-  "bltc5a6495c8d8fcb0b": {
-    "stackHeaders": {
-      "api_key": "<api_key>"
-    },
-    "urlPath": "/assets/bltc5a6495c8d8fcb0b",
-    "uid": "bltc5a6495c8d8fcb0b",
-    "content_type": "image/svg+xml",
-    "file_size": "76596",
-    "tags": [],
-    "filename": "our-story.svg",
-    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
-    "ACL": {
-      "roles": [],
-      "others": {
-        "read": false,
-        "create": false,
-        "update": false,
-        "delete": false,
-        "sub_acl": {
-          "read": false,
-          "create": false,
-          "update": false,
-          "delete": false,
-          "publish": false
-        }
-      }
-    },
-    "is_dir": false,
-    "parent_uid": "blt083fba56fa3f4dc4",
-    "_version": 1,
-    "title": "our-story.svg",
-    "publish_details": [
-      {
-        "environment": "blt37dde668c27e53af",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:35.230Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blt736d333d806821d9",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:35.234Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blte8220d7ae8cb31c0",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:35.237Z",
-        "user": "userUID",
-        "version": 1
-      }
-    ]
-  },
-  "blt0bbb0547e7bbf7eb": {
-    "stackHeaders": {
-      "api_key": "<api_key>"
-    },
-    "urlPath": "/assets/blt0bbb0547e7bbf7eb",
-    "uid": "blt0bbb0547e7bbf7eb",
-    "content_type": "image/jpeg",
-    "file_size": "34781",
-    "tags": [],
-    "filename": "Zora_Neale_Hurston_Headshot.jpg",
-    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
-    "ACL": {
-      "roles": [],
-      "others": {
-        "read": false,
-        "create": false,
-        "update": false,
-        "delete": false,
-        "sub_acl": {
-          "read": false,
-          "create": false,
-          "update": false,
-          "delete": false,
-          "publish": false
-        }
-      }
-    },
-    "is_dir": false,
-    "parent_uid": "bltf686c34e844a9944",
-    "_version": 1,
-    "title": "Zora Neale Hurston",
-    "description": "",
-    "publish_details": [
-      {
-        "environment": "blt37dde668c27e53af",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:35.600Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blt736d333d806821d9",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:35.606Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blte8220d7ae8cb31c0",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:35.612Z",
-        "user": "userUID",
-        "version": 1
-      }
-    ]
-  },
-  "bltcf44cedbe34d2b11": {
-    "stackHeaders": {
-      "api_key": "<api_key>"
-    },
-    "urlPath": "/assets/bltcf44cedbe34d2b11",
-    "uid": "bltcf44cedbe34d2b11",
-    "content_type": "image/jpeg",
-    "file_size": "31539",
-    "tags": [],
-    "filename": "Charles_Dickens_Headshot.jpg",
-    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
-    "ACL": {
-      "roles": [],
-      "others": {
-        "read": false,
-        "create": false,
-        "update": false,
-        "delete": false,
-        "sub_acl": {
-          "read": false,
-          "create": false,
-          "update": false,
-          "delete": false,
-          "publish": false
-        }
-      }
-    },
-    "is_dir": false,
-    "parent_uid": "bltf686c34e844a9944",
-    "_version": 1,
-    "title": "Charles Dickens",
-    "description": "",
-    "publish_details": [
-      {
-        "environment": "blt37dde668c27e53af",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:35.922Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blt736d333d806821d9",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:35.926Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blte8220d7ae8cb31c0",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:35.929Z",
-        "user": "userUID",
-        "version": 1
-      }
-    ]
-  },
-  "bltf837ad621a526cec": {
-    "stackHeaders": {
-      "api_key": "<api_key>"
-    },
-    "urlPath": "/assets/bltf837ad621a526cec",
-    "uid": "bltf837ad621a526cec",
-    "content_type": "image/svg+xml",
-    "file_size": "154333",
-    "tags": [],
-    "filename": "cierra-vega.svg",
-    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
-    "ACL": {
-      "roles": [],
-      "others": {
-        "read": false,
-        "create": false,
-        "update": false,
-        "delete": false,
-        "sub_acl": {
-          "read": false,
-          "create": false,
-          "update": false,
-          "delete": false,
-          "publish": false
-        }
-      }
-    },
-    "is_dir": false,
-    "parent_uid": "blt083fba56fa3f4dc4",
-    "_version": 1,
-    "title": "Cierra Vega",
-    "description": "",
-    "publish_details": [
-      {
-        "environment": "blt37dde668c27e53af",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:36.405Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blt736d333d806821d9",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:36.411Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blte8220d7ae8cb31c0",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:36.416Z",
-        "user": "userUID",
-        "version": 1
-      }
-    ]
-  },
-  "blt8a53456a4ecb7b45": {
-    "stackHeaders": {
-      "api_key": "<api_key>"
-    },
-    "urlPath": "/assets/blt8a53456a4ecb7b45",
-    "uid": "blt8a53456a4ecb7b45",
-    "content_type": "image/svg+xml",
-    "file_size": "125471",
-    "tags": [],
-    "filename": "about-us.svg",
-    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
-    "ACL": {
-      "roles": [],
-      "others": {
-        "read": false,
-        "create": false,
-        "update": false,
-        "delete": false,
-        "sub_acl": {
-          "read": false,
-          "create": false,
-          "update": false,
-          "delete": false,
-          "publish": false
-        }
-      }
-    },
-    "is_dir": false,
-    "parent_uid": "blt083fba56fa3f4dc4",
-    "_version": 1,
-    "title": "about-us.svg",
-    "publish_details": [
-      {
-        "environment": "blt37dde668c27e53af",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:36.753Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blt736d333d806821d9",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:36.760Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blte8220d7ae8cb31c0",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:36.765Z",
-        "user": "userUID",
-        "version": 1
-      }
-    ]
-  },
-  "blt7fd929dbeb681d75": {
-    "stackHeaders": {
-      "api_key": "<api_key>"
-    },
-    "urlPath": "/assets/blt7fd929dbeb681d75",
-    "uid": "blt7fd929dbeb681d75",
-    "content_type": "image/svg+xml",
-    "file_size": "128164",
-    "tags": [],
-    "filename": "thomas-crane.svg",
-    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
-    "ACL": {
-      "roles": [],
-      "others": {
-        "read": false,
-        "create": false,
-        "update": false,
-        "delete": false,
-        "sub_acl": {
-          "read": false,
-          "create": false,
-          "update": false,
-          "delete": false,
-          "publish": false
-        }
-      }
-    },
-    "is_dir": false,
-    "parent_uid": "blt083fba56fa3f4dc4",
-    "_version": 1,
-    "title": "thomas-crane.svg",
-    "publish_details": [
-      {
-        "environment": "blt37dde668c27e53af",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:37.045Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blt736d333d806821d9",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:37.048Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blte8220d7ae8cb31c0",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:37.051Z",
-        "user": "userUID",
-        "version": 1
-      }
-    ]
-  },
-  "blt38ff32a226bbe94a": {
-    "stackHeaders": {
-      "api_key": "<api_key>"
-    },
-    "urlPath": "/assets/blt38ff32a226bbe94a",
-    "uid": "blt38ff32a226bbe94a",
-    "content_type": "image/svg+xml",
-    "file_size": "32495",
-    "tags": [],
-    "filename": "traditional-decoupled-_headless-cms.svg",
-    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
-    "ACL": {
-      "roles": [],
-      "others": {
-        "read": false,
-        "create": false,
-        "update": false,
-        "delete": false,
-        "sub_acl": {
-          "read": false,
-          "create": false,
-          "update": false,
-          "delete": false,
-          "publish": false
-        }
-      }
-    },
-    "is_dir": false,
-    "parent_uid": "blt70ba6ec8b02a4765",
-    "_version": 1,
-    "title": "Traditional Decoupled Headless CMS",
-    "description": "",
-    "publish_details": [
-      {
-        "environment": "blt37dde668c27e53af",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:37.449Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blt736d333d806821d9",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:37.453Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blte8220d7ae8cb31c0",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:37.457Z",
-        "user": "userUID",
-        "version": 1
-      }
-    ]
-  },
-  "blt3701601954cbbd82": {
-    "stackHeaders": {
-      "api_key": "<api_key>"
-    },
-    "urlPath": "/assets/blt3701601954cbbd82",
-    "uid": "blt3701601954cbbd82",
-    "content_type": "image/jpeg",
-    "file_size": "8494",
-    "tags": [],
-    "filename": "AlbertEinstein.jpeg",
-    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
-    "ACL": {
-      "roles": [],
-      "others": {
-        "read": false,
-        "create": false,
-        "update": false,
-        "delete": false,
-        "sub_acl": {
-          "read": false,
-          "create": false,
-          "update": false,
-          "delete": false,
-          "publish": false
-        }
-      }
-    },
-    "is_dir": false,
-    "parent_uid": "bltf686c34e844a9944",
-    "_version": 1,
-    "title": "AlbertEinstein.jpeg",
-    "publish_details": [
-      {
-        "environment": "blt37dde668c27e53af",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:37.715Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blt736d333d806821d9",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:37.718Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blte8220d7ae8cb31c0",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:37.721Z",
-        "user": "userUID",
-        "version": 1
-      }
-    ]
-  },
-  "blt17e9597f2e48ab26": {
-    "stackHeaders": {
-      "api_key": "<api_key>"
-    },
-    "urlPath": "/assets/blt17e9597f2e48ab26",
-    "uid": "blt17e9597f2e48ab26",
-    "content_type": "image/svg+xml",
-    "file_size": "26826",
-    "tags": [],
-    "filename": "business-with-al.svg",
-    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
-    "ACL": {
-      "roles": [],
-      "others": {
-        "read": false,
-        "create": false,
-        "update": false,
-        "delete": false,
-        "sub_acl": {
-          "read": false,
-          "create": false,
-          "update": false,
-          "delete": false,
-          "publish": false
-        }
-      }
-    },
-    "is_dir": false,
-    "parent_uid": "blt70ba6ec8b02a4765",
-    "_version": 1,
-    "title": "Business With Al",
-    "description": "",
-    "publish_details": [
-      {
-        "environment": "blt37dde668c27e53af",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:38.095Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blt736d333d806821d9",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:38.102Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blte8220d7ae8cb31c0",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:38.107Z",
-        "user": "userUID",
-        "version": 1
-      }
-    ]
-  },
-  "bltca73a8d8eebe1447": {
-    "stackHeaders": {
-      "api_key": "<api_key>"
-    },
-    "urlPath": "/assets/bltca73a8d8eebe1447",
-    "uid": "bltca73a8d8eebe1447",
-    "content_type": "image/svg+xml",
-    "file_size": "55212",
-    "tags": [],
-    "filename": "alden-cantrell.svg",
-    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
-    "ACL": {
-      "roles": [],
-      "others": {
-        "read": false,
-        "create": false,
-        "update": false,
-        "delete": false,
-        "sub_acl": {
-          "read": false,
-          "create": false,
-          "update": false,
-          "delete": false,
-          "publish": false
-        }
-      }
-    },
-    "is_dir": false,
-    "parent_uid": "blt083fba56fa3f4dc4",
-    "_version": 1,
-    "title": "alden-cantrell.svg",
-    "publish_details": [
-      {
-        "environment": "blt37dde668c27e53af",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:38.331Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blt736d333d806821d9",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:38.335Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blte8220d7ae8cb31c0",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:38.339Z",
-        "user": "userUID",
-        "version": 1
-      }
-    ]
-  },
-  "bltdd8b444f94d11718": {
-    "stackHeaders": {
-      "api_key": "<api_key>"
-    },
-    "urlPath": "/assets/bltdd8b444f94d11718",
-    "uid": "bltdd8b444f94d11718",
-    "content_type": "image/svg+xml",
-    "file_size": "48517",
-    "tags": [],
-    "filename": "pierre-cox.svg",
-    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
-    "ACL": {
-      "roles": [],
-      "others": {
-        "read": false,
-        "create": false,
-        "update": false,
-        "delete": false,
-        "sub_acl": {
-          "read": false,
-          "create": false,
-          "update": false,
-          "delete": false,
-          "publish": false
-        }
-      }
-    },
-    "is_dir": false,
-    "parent_uid": "blt083fba56fa3f4dc4",
-    "_version": 1,
-    "title": "pierre-cox.svg",
-    "publish_details": [
-      {
-        "environment": "blt37dde668c27e53af",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:38.746Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blt736d333d806821d9",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:38.749Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blte8220d7ae8cb31c0",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:38.753Z",
-        "user": "userUID",
-        "version": 1
-      }
-    ]
-  },
-  "blt98ea1096e32849da": {
-    "stackHeaders": {
-      "api_key": "<api_key>"
-    },
-    "urlPath": "/assets/blt98ea1096e32849da",
-    "uid": "blt98ea1096e32849da",
-    "content_type": "image/jpeg",
-    "file_size": "41226",
-    "tags": [],
-    "filename": "Maya_Angelou_Headshot.jpg",
-    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
-    "ACL": {
-      "roles": [],
-      "others": {
-        "read": false,
-        "create": false,
-        "update": false,
-        "delete": false,
-        "sub_acl": {
-          "read": false,
-          "create": false,
-          "update": false,
-          "delete": false,
-          "publish": false
-        }
-      }
-    },
-    "is_dir": false,
-    "parent_uid": "bltf686c34e844a9944",
-    "_version": 1,
-    "title": "Maya Angelou",
-    "description": "",
-    "publish_details": [
-      {
-        "environment": "blt37dde668c27e53af",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:39.112Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blt736d333d806821d9",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:39.116Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blte8220d7ae8cb31c0",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:39.119Z",
-        "user": "userUID",
-        "version": 1
-      }
-    ]
-  },
-  "blt94ed99b1b6f1d9d9": {
-    "stackHeaders": {
-      "api_key": "<api_key>"
-    },
-    "urlPath": "/assets/blt94ed99b1b6f1d9d9",
-    "uid": "blt94ed99b1b6f1d9d9",
-    "content_type": "image/jpeg",
-    "file_size": "21371",
-    "tags": [],
-    "filename": "Virginia_Woolf_Headshot.jpg",
-    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
-    "ACL": {
-      "roles": [],
-      "others": {
-        "read": false,
-        "create": false,
-        "update": false,
-        "delete": false,
-        "sub_acl": {
-          "read": false,
-          "create": false,
-          "update": false,
-          "delete": false,
-          "publish": false
-        }
-      }
-    },
-    "is_dir": false,
-    "parent_uid": "bltf686c34e844a9944",
-    "_version": 1,
-    "title": "Virginia Woolf",
-    "description": "",
-    "publish_details": [
-      {
-        "environment": "blt37dde668c27e53af",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:39.472Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blt736d333d806821d9",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:39.475Z",
-        "user": "userUID",
-        "version": 1
-      },
-      {
-        "environment": "blte8220d7ae8cb31c0",
-        "locale": "en-us",
-        "time": "2024-02-23T09:03:39.479Z",
-        "user": "userUID",
-        "version": 1
-      }
-    ]
-  },
-  "blt1426c8855d0dcdc7": {
-    "stackHeaders": {
-      "api_key": "<api_key>"
-    },
-    "urlPath": "/assets/blt1426c8855d0dcdc7",
-    "uid": "blt1426c8855d0dcdc7",
+    "urlPath": "/assets/blt9b789cd23e1a26d1",
+    "uid": "blt9b789cd23e1a26d1",
     "content_type": "image/jpeg",
     "file_size": "12668",
     "tags": [],
@@ -1972,29 +83,1918 @@
       }
     },
     "is_dir": false,
-    "parent_uid": "bltf686c34e844a9944",
+    "parent_uid": "bltf7736f3285172d6c",
     "_version": 1,
     "title": "Jane Austen",
     "description": "",
     "publish_details": [
       {
-        "environment": "blt37dde668c27e53af",
+        "environment": "blt12968b3718077942",
         "locale": "en-us",
-        "time": "2024-02-23T09:03:39.778Z",
+        "time": "2022-06-01T06:21:38.520Z",
         "user": "userUID",
         "version": 1
       },
       {
-        "environment": "blt736d333d806821d9",
+        "environment": "blt5ebb94c4d8e301eb",
         "locale": "en-us",
-        "time": "2024-02-23T09:03:39.783Z",
+        "time": "2022-06-01T06:21:38.530Z",
         "user": "userUID",
         "version": 1
       },
       {
-        "environment": "blte8220d7ae8cb31c0",
+        "environment": "blta231f8cba2be9b18",
         "locale": "en-us",
-        "time": "2024-02-23T09:03:39.786Z",
+        "time": "2022-06-01T06:21:38.537Z",
+        "user": "userUID",
+        "version": 1
+      }
+    ]
+  },
+  "blt159f80cbbc29e9fd": {
+    "stackHeaders": {
+      "api_key": "api_key"
+    },
+    "urlPath": "/assets/blt159f80cbbc29e9fd",
+    "uid": "blt159f80cbbc29e9fd",
+    "content_type": "image/svg+xml",
+    "file_size": "2584878",
+    "tags": [],
+    "filename": "map-of-brimingham-city.svg",
+    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "bltae4aa8c88e5b7446",
+    "_version": 1,
+    "title": "Map Of Birmingham City",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt12968b3718077942",
+        "locale": "en-us",
+        "time": "2022-06-01T06:21:42.430Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blt5ebb94c4d8e301eb",
+        "locale": "en-us",
+        "time": "2022-06-01T06:21:42.438Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blta231f8cba2be9b18",
+        "locale": "en-us",
+        "time": "2022-06-01T06:21:42.444Z",
+        "user": "userUID",
+        "version": 1
+      }
+    ]
+  },
+  "blt6833f07dc3aaa95a": {
+    "stackHeaders": {
+      "api_key": "api_key"
+    },
+    "urlPath": "/assets/blt6833f07dc3aaa95a",
+    "uid": "blt6833f07dc3aaa95a",
+    "content_type": "image/svg+xml",
+    "file_size": "1288",
+    "tags": [],
+    "filename": "facebook.svg",
+    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "bltb5d3635b7dcf1e01",
+    "_version": 1,
+    "title": "facebook.svg",
+    "publish_details": [
+      {
+        "environment": "blt12968b3718077942",
+        "locale": "en-us",
+        "time": "2022-06-01T06:21:44.414Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blt5ebb94c4d8e301eb",
+        "locale": "en-us",
+        "time": "2022-06-01T06:21:44.418Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blta231f8cba2be9b18",
+        "locale": "en-us",
+        "time": "2022-06-01T06:21:44.422Z",
+        "user": "userUID",
+        "version": 1
+      }
+    ]
+  },
+  "blt741f3e09c6dd6bd1": {
+    "stackHeaders": {
+      "api_key": "api_key"
+    },
+    "urlPath": "/assets/blt741f3e09c6dd6bd1",
+    "uid": "blt741f3e09c6dd6bd1",
+    "content_type": "image/svg+xml",
+    "file_size": "1314",
+    "tags": [],
+    "filename": "bucket2.svg",
+    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "bltb5d3635b7dcf1e01",
+    "_version": 1,
+    "title": "bucket2.svg",
+    "publish_details": [
+      {
+        "environment": "blt12968b3718077942",
+        "locale": "en-us",
+        "time": "2022-06-01T06:21:46.808Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blt5ebb94c4d8e301eb",
+        "locale": "en-us",
+        "time": "2022-06-01T06:21:46.811Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blta231f8cba2be9b18",
+        "locale": "en-us",
+        "time": "2022-06-01T06:21:46.815Z",
+        "user": "userUID",
+        "version": 1
+      }
+    ]
+  },
+  "blt7d03911f1919a14d": {
+    "stackHeaders": {
+      "api_key": "api_key"
+    },
+    "urlPath": "/assets/blt7d03911f1919a14d",
+    "uid": "blt7d03911f1919a14d",
+    "content_type": "image/svg+xml",
+    "file_size": "806",
+    "tags": [],
+    "filename": "Instagram.svg",
+    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "bltb5d3635b7dcf1e01",
+    "_version": 1,
+    "title": "Instagram.svg",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt12968b3718077942",
+        "locale": "en-us",
+        "time": "2022-06-01T06:21:49.093Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blt5ebb94c4d8e301eb",
+        "locale": "en-us",
+        "time": "2022-06-01T06:21:49.100Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blta231f8cba2be9b18",
+        "locale": "en-us",
+        "time": "2022-06-01T06:21:49.107Z",
+        "user": "userUID",
+        "version": 1
+      }
+    ]
+  },
+  "blt0f6e6cb108d1fc2b": {
+    "stackHeaders": {
+      "api_key": "api_key"
+    },
+    "urlPath": "/assets/blt0f6e6cb108d1fc2b",
+    "uid": "blt0f6e6cb108d1fc2b",
+    "content_type": "image/svg+xml",
+    "file_size": "706",
+    "tags": [],
+    "filename": "bucket1.svg",
+    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "bltb5d3635b7dcf1e01",
+    "_version": 1,
+    "title": "bucket1.svg",
+    "publish_details": [
+      {
+        "environment": "blt12968b3718077942",
+        "locale": "en-us",
+        "time": "2022-06-01T06:21:51.392Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blt5ebb94c4d8e301eb",
+        "locale": "en-us",
+        "time": "2022-06-01T06:21:51.398Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blta231f8cba2be9b18",
+        "locale": "en-us",
+        "time": "2022-06-01T06:21:51.403Z",
+        "user": "userUID",
+        "version": 1
+      }
+    ]
+  },
+  "bltf9dfadf8a372fcc6": {
+    "stackHeaders": {
+      "api_key": "api_key"
+    },
+    "urlPath": "/assets/bltf9dfadf8a372fcc6",
+    "uid": "bltf9dfadf8a372fcc6",
+    "content_type": "image/svg+xml",
+    "file_size": "579",
+    "tags": [],
+    "filename": "Icon_Artwork_1.svg",
+    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt80cc784fdfe6de19",
+    "_version": 1,
+    "title": "Icon_Artwork_1.svg",
+    "publish_details": [
+      {
+        "environment": "blt12968b3718077942",
+        "locale": "en-us",
+        "time": "2022-06-01T06:21:53.612Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blt5ebb94c4d8e301eb",
+        "locale": "en-us",
+        "time": "2022-06-01T06:21:53.624Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blta231f8cba2be9b18",
+        "locale": "en-us",
+        "time": "2022-06-01T06:21:53.631Z",
+        "user": "userUID",
+        "version": 1
+      }
+    ]
+  },
+  "bltcc442c4109628650": {
+    "stackHeaders": {
+      "api_key": "api_key"
+    },
+    "urlPath": "/assets/bltcc442c4109628650",
+    "uid": "bltcc442c4109628650",
+    "content_type": "image/jpeg",
+    "file_size": "2850",
+    "tags": [],
+    "filename": "ben.jpeg",
+    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "bltf7736f3285172d6c",
+    "_version": 1,
+    "title": "ben.jpeg",
+    "publish_details": [
+      {
+        "environment": "blt12968b3718077942",
+        "locale": "en-us",
+        "time": "2022-06-01T06:21:55.809Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blt5ebb94c4d8e301eb",
+        "locale": "en-us",
+        "time": "2022-06-01T06:21:55.816Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blta231f8cba2be9b18",
+        "locale": "en-us",
+        "time": "2022-06-01T06:21:55.823Z",
+        "user": "userUID",
+        "version": 1
+      }
+    ]
+  },
+  "bltc4481dfc6cf3d300": {
+    "stackHeaders": {
+      "api_key": "api_key"
+    },
+    "urlPath": "/assets/bltc4481dfc6cf3d300",
+    "uid": "bltc4481dfc6cf3d300",
+    "content_type": "image/svg+xml",
+    "file_size": "1849",
+    "tags": [],
+    "filename": "Icon_Artwork_2.svg",
+    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt80cc784fdfe6de19",
+    "_version": 1,
+    "title": "Icon_Artwork_2.svg",
+    "publish_details": [
+      {
+        "environment": "blt12968b3718077942",
+        "locale": "en-us",
+        "time": "2022-06-01T06:21:57.974Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blt5ebb94c4d8e301eb",
+        "locale": "en-us",
+        "time": "2022-06-01T06:21:57.981Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blta231f8cba2be9b18",
+        "locale": "en-us",
+        "time": "2022-06-01T06:21:57.989Z",
+        "user": "userUID",
+        "version": 1
+      }
+    ]
+  },
+  "blt35f21ee8919ba51d": {
+    "stackHeaders": {
+      "api_key": "api_key"
+    },
+    "urlPath": "/assets/blt35f21ee8919ba51d",
+    "uid": "blt35f21ee8919ba51d",
+    "content_type": "image/svg+xml",
+    "file_size": "706",
+    "tags": [],
+    "filename": "artificial-intelligence.svg",
+    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt9e4e6644c6f22ad5",
+    "_version": 1,
+    "title": "Artificial Intelligence.svg",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt12968b3718077942",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:00.122Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blt5ebb94c4d8e301eb",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:00.129Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blta231f8cba2be9b18",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:00.136Z",
+        "user": "userUID",
+        "version": 1
+      }
+    ]
+  },
+  "bltb7792f6002359ae1": {
+    "stackHeaders": {
+      "api_key": "api_key"
+    },
+    "urlPath": "/assets/bltb7792f6002359ae1",
+    "uid": "bltb7792f6002359ae1",
+    "content_type": "image/svg+xml",
+    "file_size": "1053",
+    "tags": [],
+    "filename": "bucket3.svg",
+    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "bltb5d3635b7dcf1e01",
+    "_version": 1,
+    "title": "bucket3.svg",
+    "publish_details": [
+      {
+        "environment": "blt12968b3718077942",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:02.301Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blt5ebb94c4d8e301eb",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:02.309Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blta231f8cba2be9b18",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:02.313Z",
+        "user": "userUID",
+        "version": 1
+      }
+    ]
+  },
+  "blt3ecc8c3f867a30ca": {
+    "stackHeaders": {
+      "api_key": "api_key"
+    },
+    "urlPath": "/assets/blt3ecc8c3f867a30ca",
+    "uid": "blt3ecc8c3f867a30ca",
+    "content_type": "image/svg+xml",
+    "file_size": "53205",
+    "tags": [],
+    "filename": "headless-cms-solution.svg",
+    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "bltc9331bbd0c3a6d89",
+    "_version": 1,
+    "title": "Headless CMS Solution",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt12968b3718077942",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:04.680Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blt5ebb94c4d8e301eb",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:04.689Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blta231f8cba2be9b18",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:04.697Z",
+        "user": "userUID",
+        "version": 1
+      }
+    ]
+  },
+  "blt48ab0a3669ce4d9f": {
+    "stackHeaders": {
+      "api_key": "api_key"
+    },
+    "urlPath": "/assets/blt48ab0a3669ce4d9f",
+    "uid": "blt48ab0a3669ce4d9f",
+    "content_type": "image/svg+xml",
+    "file_size": "54029",
+    "tags": [],
+    "filename": "winning-digital-strategy.svg",
+    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt9e4e6644c6f22ad5",
+    "_version": 1,
+    "title": "Winning Digital Strategy",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt12968b3718077942",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:07.004Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blt5ebb94c4d8e301eb",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:07.010Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blta231f8cba2be9b18",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:07.016Z",
+        "user": "userUID",
+        "version": 1
+      }
+    ]
+  },
+  "blt375abc6560b67ff5": {
+    "stackHeaders": {
+      "api_key": "api_key"
+    },
+    "urlPath": "/assets/blt375abc6560b67ff5",
+    "uid": "blt375abc6560b67ff5",
+    "content_type": "image/svg+xml",
+    "file_size": "1436",
+    "tags": [],
+    "filename": "Twitter.svg",
+    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "bltb5d3635b7dcf1e01",
+    "_version": 1,
+    "title": "Twitter.svg",
+    "publish_details": [
+      {
+        "environment": "blt12968b3718077942",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:09.322Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blt5ebb94c4d8e301eb",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:09.330Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blta231f8cba2be9b18",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:09.336Z",
+        "user": "userUID",
+        "version": 1
+      }
+    ]
+  },
+  "blt28b9b66af8d7942c": {
+    "stackHeaders": {
+      "api_key": "api_key"
+    },
+    "urlPath": "/assets/blt28b9b66af8d7942c",
+    "uid": "blt28b9b66af8d7942c",
+    "content_type": "image/svg+xml",
+    "file_size": "49454",
+    "tags": [],
+    "filename": "help-for-the-next-step.svg",
+    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt9e4e6644c6f22ad5",
+    "_version": 1,
+    "title": "help-for-the-next-step.svg",
+    "publish_details": [
+      {
+        "environment": "blt12968b3718077942",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:11.855Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blt5ebb94c4d8e301eb",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:11.863Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blta231f8cba2be9b18",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:11.869Z",
+        "user": "userUID",
+        "version": 1
+      }
+    ]
+  },
+  "blt0302ac619dee44a0": {
+    "stackHeaders": {
+      "api_key": "api_key"
+    },
+    "urlPath": "/assets/blt0302ac619dee44a0",
+    "uid": "blt0302ac619dee44a0",
+    "content_type": "image/svg+xml",
+    "file_size": "1053",
+    "tags": [],
+    "filename": "security.svg",
+    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt9e4e6644c6f22ad5",
+    "_version": 1,
+    "title": "Security",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt12968b3718077942",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:14.282Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blt5ebb94c4d8e301eb",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:14.289Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blta231f8cba2be9b18",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:14.296Z",
+        "user": "userUID",
+        "version": 1
+      }
+    ]
+  },
+  "bltcc0ba05b67d7b5b9": {
+    "stackHeaders": {
+      "api_key": "api_key"
+    },
+    "urlPath": "/assets/bltcc0ba05b67d7b5b9",
+    "uid": "bltcc0ba05b67d7b5b9",
+    "content_type": "image/svg+xml",
+    "file_size": "32524",
+    "tags": [],
+    "filename": "data-mining.svg",
+    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "bltc9331bbd0c3a6d89",
+    "_version": 1,
+    "title": "Data Mining",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt12968b3718077942",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:16.299Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blt5ebb94c4d8e301eb",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:16.303Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blta231f8cba2be9b18",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:16.306Z",
+        "user": "userUID",
+        "version": 1
+      }
+    ]
+  },
+  "blt8baa54ac130ec12b": {
+    "stackHeaders": {
+      "api_key": "api_key"
+    },
+    "urlPath": "/assets/blt8baa54ac130ec12b",
+    "uid": "blt8baa54ac130ec12b",
+    "content_type": "image/svg+xml",
+    "file_size": "47003",
+    "tags": [],
+    "filename": "modern-cloud-ecosystem.svg",
+    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "bltc9331bbd0c3a6d89",
+    "_version": 1,
+    "title": "Modern Cloud Ecosystem",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt12968b3718077942",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:18.680Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blt5ebb94c4d8e301eb",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:18.703Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blta231f8cba2be9b18",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:18.708Z",
+        "user": "userUID",
+        "version": 1
+      }
+    ]
+  },
+  "blt0b5fed03ab128d27": {
+    "stackHeaders": {
+      "api_key": "api_key"
+    },
+    "urlPath": "/assets/blt0b5fed03ab128d27",
+    "uid": "blt0b5fed03ab128d27",
+    "content_type": "image/png",
+    "file_size": "99632",
+    "tags": [],
+    "filename": "Charlotte_Bronte_Headshot.png",
+    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "bltf7736f3285172d6c",
+    "_version": 1,
+    "title": "Charlotte Bronte",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt12968b3718077942",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:21.228Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blt5ebb94c4d8e301eb",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:21.234Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blta231f8cba2be9b18",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:21.241Z",
+        "user": "userUID",
+        "version": 1
+      }
+    ]
+  },
+  "bltc97da0e954249290": {
+    "stackHeaders": {
+      "api_key": "api_key"
+    },
+    "urlPath": "/assets/bltc97da0e954249290",
+    "uid": "bltc97da0e954249290",
+    "content_type": "image/jpeg",
+    "file_size": "148713",
+    "tags": [],
+    "filename": "Mark_Twain_Headshot.jpg",
+    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "bltf7736f3285172d6c",
+    "_version": 1,
+    "title": "Mark Twain",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt12968b3718077942",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:24.033Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blt5ebb94c4d8e301eb",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:24.039Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blta231f8cba2be9b18",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:24.045Z",
+        "user": "userUID",
+        "version": 1
+      }
+    ]
+  },
+  "bltf42104581741eaff": {
+    "stackHeaders": {
+      "api_key": "api_key"
+    },
+    "urlPath": "/assets/bltf42104581741eaff",
+    "uid": "bltf42104581741eaff",
+    "content_type": "image/jpeg",
+    "file_size": "25872",
+    "tags": [],
+    "filename": "W._E._B._Du_Bois_Headshot.jpg",
+    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "bltf7736f3285172d6c",
+    "_version": 1,
+    "title": "W.E. B. Du Bois",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt12968b3718077942",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:26.447Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blt5ebb94c4d8e301eb",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:26.454Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blta231f8cba2be9b18",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:26.461Z",
+        "user": "userUID",
+        "version": 1
+      }
+    ]
+  },
+  "blt9e669c7956304f08": {
+    "stackHeaders": {
+      "api_key": "api_key"
+    },
+    "urlPath": "/assets/blt9e669c7956304f08",
+    "uid": "blt9e669c7956304f08",
+    "content_type": "image/svg+xml",
+    "file_size": "76596",
+    "tags": [],
+    "filename": "our-story.svg",
+    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt80cc784fdfe6de19",
+    "_version": 1,
+    "title": "our-story.svg",
+    "publish_details": [
+      {
+        "environment": "blt12968b3718077942",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:28.984Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blt5ebb94c4d8e301eb",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:28.989Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blta231f8cba2be9b18",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:28.992Z",
+        "user": "userUID",
+        "version": 1
+      }
+    ]
+  },
+  "blt0e67a01398f3e8b3": {
+    "stackHeaders": {
+      "api_key": "api_key"
+    },
+    "urlPath": "/assets/blt0e67a01398f3e8b3",
+    "uid": "blt0e67a01398f3e8b3",
+    "content_type": "image/svg+xml",
+    "file_size": "11085",
+    "tags": [],
+    "filename": "company-logo.svg",
+    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt8946c06ff52c64c2",
+    "_version": 1,
+    "title": "Company Logo",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt12968b3718077942",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:31.172Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blt5ebb94c4d8e301eb",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:31.177Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blta231f8cba2be9b18",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:31.183Z",
+        "user": "userUID",
+        "version": 1
+      }
+    ]
+  },
+  "blt02022497c8d3fb8d": {
+    "stackHeaders": {
+      "api_key": "api_key"
+    },
+    "urlPath": "/assets/blt02022497c8d3fb8d",
+    "uid": "blt02022497c8d3fb8d",
+    "content_type": "image/jpeg",
+    "file_size": "31539",
+    "tags": [],
+    "filename": "Charles_Dickens_Headshot.jpg",
+    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "bltf7736f3285172d6c",
+    "_version": 1,
+    "title": "Charles Dickens",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt12968b3718077942",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:33.613Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blt5ebb94c4d8e301eb",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:33.617Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blta231f8cba2be9b18",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:33.621Z",
+        "user": "userUID",
+        "version": 1
+      }
+    ]
+  },
+  "blt3a98ab71986430f5": {
+    "stackHeaders": {
+      "api_key": "api_key"
+    },
+    "urlPath": "/assets/blt3a98ab71986430f5",
+    "uid": "blt3a98ab71986430f5",
+    "content_type": "image/jpeg",
+    "file_size": "34781",
+    "tags": [],
+    "filename": "Zora_Neale_Hurston_Headshot.jpg",
+    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "bltf7736f3285172d6c",
+    "_version": 1,
+    "title": "Zora Neale Hurston",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt12968b3718077942",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:35.961Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blt5ebb94c4d8e301eb",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:35.965Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blta231f8cba2be9b18",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:35.972Z",
+        "user": "userUID",
+        "version": 1
+      }
+    ]
+  },
+  "blt57df3fdbf412d396": {
+    "stackHeaders": {
+      "api_key": "api_key"
+    },
+    "urlPath": "/assets/blt57df3fdbf412d396",
+    "uid": "blt57df3fdbf412d396",
+    "content_type": "image/svg+xml",
+    "file_size": "125471",
+    "tags": [],
+    "filename": "about-us.svg",
+    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt80cc784fdfe6de19",
+    "_version": 1,
+    "title": "about-us.svg",
+    "publish_details": [
+      {
+        "environment": "blt12968b3718077942",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:39.833Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blt5ebb94c4d8e301eb",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:39.842Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blta231f8cba2be9b18",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:39.848Z",
+        "user": "userUID",
+        "version": 1
+      }
+    ]
+  },
+  "bltda9d862a116e3509": {
+    "stackHeaders": {
+      "api_key": "api_key"
+    },
+    "urlPath": "/assets/bltda9d862a116e3509",
+    "uid": "bltda9d862a116e3509",
+    "content_type": "image/svg+xml",
+    "file_size": "154333",
+    "tags": [],
+    "filename": "cierra-vega.svg",
+    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt80cc784fdfe6de19",
+    "_version": 1,
+    "title": "Cierra Vega",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt12968b3718077942",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:43.833Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blt5ebb94c4d8e301eb",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:43.841Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blta231f8cba2be9b18",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:43.848Z",
+        "user": "userUID",
+        "version": 1
+      }
+    ]
+  },
+  "blt745cc9ee91934c1d": {
+    "stackHeaders": {
+      "api_key": "api_key"
+    },
+    "urlPath": "/assets/blt745cc9ee91934c1d",
+    "uid": "blt745cc9ee91934c1d",
+    "content_type": "image/svg+xml",
+    "file_size": "32495",
+    "tags": [],
+    "filename": "traditional-decoupled-_headless-cms.svg",
+    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "bltc9331bbd0c3a6d89",
+    "_version": 1,
+    "title": "Traditional Decoupled Headless CMS",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt12968b3718077942",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:45.690Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blt5ebb94c4d8e301eb",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:45.697Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blta231f8cba2be9b18",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:45.702Z",
+        "user": "userUID",
+        "version": 1
+      }
+    ]
+  },
+  "blte98a78e89fac2d0b": {
+    "stackHeaders": {
+      "api_key": "api_key"
+    },
+    "urlPath": "/assets/blte98a78e89fac2d0b",
+    "uid": "blte98a78e89fac2d0b",
+    "content_type": "image/svg+xml",
+    "file_size": "128164",
+    "tags": [],
+    "filename": "thomas-crane.svg",
+    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt80cc784fdfe6de19",
+    "_version": 1,
+    "title": "thomas-crane.svg",
+    "publish_details": [
+      {
+        "environment": "blt12968b3718077942",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:48.335Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blt5ebb94c4d8e301eb",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:48.342Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blta231f8cba2be9b18",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:48.348Z",
+        "user": "userUID",
+        "version": 1
+      }
+    ]
+  },
+  "bltfa5b152ccba746e8": {
+    "stackHeaders": {
+      "api_key": "api_key"
+    },
+    "urlPath": "/assets/bltfa5b152ccba746e8",
+    "uid": "bltfa5b152ccba746e8",
+    "content_type": "image/svg+xml",
+    "file_size": "26826",
+    "tags": [],
+    "filename": "business-with-al.svg",
+    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "bltc9331bbd0c3a6d89",
+    "_version": 1,
+    "title": "Business With Al",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt12968b3718077942",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:50.765Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blt5ebb94c4d8e301eb",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:50.773Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blta231f8cba2be9b18",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:50.779Z",
+        "user": "userUID",
+        "version": 1
+      }
+    ]
+  },
+  "bltdee99cefdb1de1e1": {
+    "stackHeaders": {
+      "api_key": "api_key"
+    },
+    "urlPath": "/assets/bltdee99cefdb1de1e1",
+    "uid": "bltdee99cefdb1de1e1",
+    "content_type": "image/jpeg",
+    "file_size": "8494",
+    "tags": [],
+    "filename": "AlbertEinstein.jpeg",
+    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "bltf7736f3285172d6c",
+    "_version": 1,
+    "title": "AlbertEinstein.jpeg",
+    "publish_details": [
+      {
+        "environment": "blt12968b3718077942",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:53.169Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blt5ebb94c4d8e301eb",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:53.173Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blta231f8cba2be9b18",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:53.176Z",
+        "user": "userUID",
+        "version": 1
+      }
+    ]
+  },
+  "blt20dbe60d493ba1f0": {
+    "stackHeaders": {
+      "api_key": "api_key"
+    },
+    "urlPath": "/assets/blt20dbe60d493ba1f0",
+    "uid": "blt20dbe60d493ba1f0",
+    "content_type": "image/svg+xml",
+    "file_size": "48517",
+    "tags": [],
+    "filename": "pierre-cox.svg",
+    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt80cc784fdfe6de19",
+    "_version": 1,
+    "title": "pierre-cox.svg",
+    "publish_details": [
+      {
+        "environment": "blt12968b3718077942",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:55.784Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blt5ebb94c4d8e301eb",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:55.791Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blta231f8cba2be9b18",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:55.800Z",
+        "user": "userUID",
+        "version": 1
+      }
+    ]
+  },
+  "blt58d6d0305e57994a": {
+    "stackHeaders": {
+      "api_key": "api_key"
+    },
+    "urlPath": "/assets/blt58d6d0305e57994a",
+    "uid": "blt58d6d0305e57994a",
+    "content_type": "image/svg+xml",
+    "file_size": "55212",
+    "tags": [],
+    "filename": "alden-cantrell.svg",
+    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt80cc784fdfe6de19",
+    "_version": 1,
+    "title": "alden-cantrell.svg",
+    "publish_details": [
+      {
+        "environment": "blt12968b3718077942",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:58.361Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blt5ebb94c4d8e301eb",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:58.365Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blta231f8cba2be9b18",
+        "locale": "en-us",
+        "time": "2022-06-01T06:22:58.369Z",
+        "user": "userUID",
+        "version": 1
+      }
+    ]
+  },
+  "blt92ca77c5ced75ede": {
+    "stackHeaders": {
+      "api_key": "api_key"
+    },
+    "urlPath": "/assets/blt92ca77c5ced75ede",
+    "uid": "blt92ca77c5ced75ede",
+    "content_type": "image/jpeg",
+    "file_size": "21371",
+    "tags": [],
+    "filename": "Virginia_Woolf_Headshot.jpg",
+    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "bltf7736f3285172d6c",
+    "_version": 1,
+    "title": "Virginia Woolf",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt12968b3718077942",
+        "locale": "en-us",
+        "time": "2022-06-01T06:23:01.033Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blt5ebb94c4d8e301eb",
+        "locale": "en-us",
+        "time": "2022-06-01T06:23:01.040Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blta231f8cba2be9b18",
+        "locale": "en-us",
+        "time": "2022-06-01T06:23:01.046Z",
+        "user": "userUID",
+        "version": 1
+      }
+    ]
+  },
+  "blt536efa2b89cc711a": {
+    "stackHeaders": {
+      "api_key": "api_key"
+    },
+    "urlPath": "/assets/blt536efa2b89cc711a",
+    "uid": "blt536efa2b89cc711a",
+    "content_type": "image/jpeg",
+    "file_size": "41226",
+    "tags": [],
+    "filename": "Maya_Angelou_Headshot.jpg",
+    "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "bltf7736f3285172d6c",
+    "_version": 1,
+    "title": "Maya Angelou",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt12968b3718077942",
+        "locale": "en-us",
+        "time": "2022-06-01T06:23:03.865Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blt5ebb94c4d8e301eb",
+        "locale": "en-us",
+        "time": "2022-06-01T06:23:03.872Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blta231f8cba2be9b18",
+        "locale": "en-us",
+        "time": "2022-06-01T06:23:03.877Z",
         "user": "userUID",
         "version": 1
       }

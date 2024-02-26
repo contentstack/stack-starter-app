@@ -1,7 +1,7 @@
 {
-  "blt37dde668c27e53af": {
+  "blt12968b3718077942": {
     "stackHeaders": {
-      "api_key": "<api_key>"
+      "api_key": "api_key"
     },
     "urlPath": "/environments/production",
     "urls": [
@@ -12,14 +12,13 @@
     ],
     "name": "production",
     "_version": 3,
-    "uid": "blt37dde668c27e53af",
-    "created_by": "userUID",
-    "created_at": "2024-02-23T09:03:26.365Z",
-    "updated_at": "2024-02-23T10:22:13.020Z"
+    "uid": "blt12968b3718077942",
+    "created_at": "2022-06-01T06:21:25.236Z",
+    "updated_at": "2024-02-26T06:47:59.919Z"
   },
-  "blte8220d7ae8cb31c0": {
+  "blta231f8cba2be9b18": {
     "stackHeaders": {
-      "api_key": "<api_key>"
+      "api_key": "api_key"
     },
     "urlPath": "/environments/preview",
     "urls": [
@@ -30,27 +29,25 @@
     ],
     "name": "preview",
     "_version": 2,
-    "uid": "blte8220d7ae8cb31c0",
-    "created_by": "userUID",
-    "created_at": "2024-02-23T09:03:26.365Z",
-    "updated_at": "2024-02-23T10:22:02.170Z"
+    "uid": "blta231f8cba2be9b18",
+    "created_at": "2022-06-01T06:21:25.240Z",
+    "updated_at": "2024-02-26T06:47:48.961Z"
   },
-  "blt736d333d806821d9": {
+  "blt5ebb94c4d8e301eb": {
     "stackHeaders": {
-      "api_key": "<api_key>"
+      "api_key": "api_key"
     },
     "urlPath": "/environments/development",
-    "name": "development",
-    "uid": "blt736d333d806821d9",
-    "created_by": "userUID",
-    "created_at": "2024-02-23T09:03:22.673Z",
-    "updated_at": "2024-02-23T10:21:54.742Z",
-    "_version": 2,
     "urls": [
       {
-        "url": "http://localhost:3000",
+        "url": "https://localhost:3000",
         "locale": "en-us"
       }
-    ]
+    ],
+    "name": "development",
+    "_version": 15,
+    "uid": "blt5ebb94c4d8e301eb",
+    "created_at": "2022-06-01T06:21:26.471Z",
+    "updated_at": "2024-02-26T06:47:40.090Z"
   }
 }

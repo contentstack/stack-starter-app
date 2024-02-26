@@ -1,15 +1,13 @@
 {
-  "blt2d80d4bf9b364ca6": {
+  "blta6ecb5d81397a5e1": {
     "title": "Company Name",
     "tags": [],
     "locale": "en-us",
     "ACL": {},
     "logo": {
-      "uid": "blta9f8f853f5c93222",
-      "created_at": "2024-02-23T09:03:34.577Z",
-      "updated_at": "2024-02-23T09:03:34.577Z",
-      "created_by": "userUID",
-      "updated_by": "userUID",
+      "uid": "blt0e67a01398f3e8b3",
+      "created_at": "2022-06-01T06:22:29.898Z",
+      "updated_at": "2022-06-01T06:22:29.898Z",
       "content_type": "image/svg+xml",
       "file_size": "11085",
       "tags": [],
@@ -17,30 +15,30 @@
       "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
       "ACL": [],
       "is_dir": false,
-      "parent_uid": "blt7711133380d02fb5",
+      "parent_uid": "blt8946c06ff52c64c2",
       "_version": 1,
       "title": "Company Logo",
       "description": "",
       "publish_details": [
         {
-          "environment": "blt37dde668c27e53af",
+          "environment": "blt12968b3718077942",
           "locale": "en-us",
-          "time": "2024-02-23T09:03:34.987Z",
-          "user": "blt12345",
+          "time": "2022-06-01T06:22:31.172Z",
+          "user": "userUID",
           "version": 1
         },
         {
-          "environment": "blt736d333d806821d9",
+          "environment": "blt5ebb94c4d8e301eb",
           "locale": "en-us",
-          "time": "2024-02-23T09:03:34.990Z",
-          "user": "blt12345",
+          "time": "2022-06-01T06:22:31.177Z",
+          "user": "userUID",
           "version": 1
         },
         {
-          "environment": "blte8220d7ae8cb31c0",
+          "environment": "blta231f8cba2be9b18",
           "locale": "en-us",
-          "time": "2024-02-23T09:03:34.993Z",
-          "user": "blt12345",
+          "time": "2022-06-01T06:22:31.183Z",
+          "user": "userUID",
           "version": 1
         }
       ]
@@ -73,14 +71,12 @@
             "href": "https://facebook.com"
           },
           "_metadata": {
-            "uid": "cs6f74b23902fd5b3b"
+            "uid": "cs37560803736037c3"
           },
           "icon": {
-            "uid": "blt5f45f7899d405556",
-            "created_at": "2024-02-23T09:03:27.431Z",
-            "updated_at": "2024-02-23T09:03:27.431Z",
-            "created_by": "userUID",
-            "updated_by": "userUID",
+            "uid": "blt6833f07dc3aaa95a",
+            "created_at": "2022-06-01T06:21:43.129Z",
+            "updated_at": "2022-06-01T06:21:43.129Z",
             "content_type": "image/svg+xml",
             "file_size": "1288",
             "tags": [],
@@ -88,29 +84,29 @@
             "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
             "ACL": [],
             "is_dir": false,
-            "parent_uid": "blt8843af47602558da",
+            "parent_uid": "bltb5d3635b7dcf1e01",
             "_version": 1,
             "title": "facebook.svg",
             "publish_details": [
               {
-                "environment": "blt37dde668c27e53af",
+                "environment": "blt12968b3718077942",
                 "locale": "en-us",
-                "time": "2024-02-23T09:03:27.752Z",
-                "user": "blt12345",
+                "time": "2022-06-01T06:21:44.414Z",
+                "user": "userUID",
                 "version": 1
               },
               {
-                "environment": "blt736d333d806821d9",
+                "environment": "blt5ebb94c4d8e301eb",
                 "locale": "en-us",
-                "time": "2024-02-23T09:03:27.759Z",
-                "user": "blt12345",
+                "time": "2022-06-01T06:21:44.418Z",
+                "user": "userUID",
                 "version": 1
               },
               {
-                "environment": "blte8220d7ae8cb31c0",
+                "environment": "blta231f8cba2be9b18",
                 "locale": "en-us",
-                "time": "2024-02-23T09:03:27.764Z",
-                "user": "blt12345",
+                "time": "2022-06-01T06:21:44.422Z",
+                "user": "userUID",
                 "version": 1
               }
             ]
@@ -122,14 +118,12 @@
             "href": "https://twitter.com"
           },
           "_metadata": {
-            "uid": "cs8523295fa7cd64f2"
+            "uid": "cs8b9fefafb8ae5ec3"
           },
           "icon": {
-            "uid": "bltd4bf52202a4f5e6a",
-            "created_at": "2024-02-23T09:03:32.159Z",
-            "updated_at": "2024-02-23T09:03:32.159Z",
-            "created_by": "userUID",
-            "updated_by": "userUID",
+            "uid": "blt375abc6560b67ff5",
+            "created_at": "2022-06-01T06:22:07.964Z",
+            "updated_at": "2022-06-01T06:22:07.964Z",
             "content_type": "image/svg+xml",
             "file_size": "1436",
             "tags": [],
@@ -137,29 +131,29 @@
             "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
             "ACL": [],
             "is_dir": false,
-            "parent_uid": "blt8843af47602558da",
+            "parent_uid": "bltb5d3635b7dcf1e01",
             "_version": 1,
             "title": "Twitter.svg",
             "publish_details": [
               {
-                "environment": "blt37dde668c27e53af",
+                "environment": "blt12968b3718077942",
                 "locale": "en-us",
-                "time": "2024-02-23T09:03:32.481Z",
-                "user": "blt12345",
+                "time": "2022-06-01T06:22:09.322Z",
+                "user": "userUID",
                 "version": 1
               },
               {
-                "environment": "blt736d333d806821d9",
+                "environment": "blt5ebb94c4d8e301eb",
                 "locale": "en-us",
-                "time": "2024-02-23T09:03:32.485Z",
-                "user": "blt12345",
+                "time": "2022-06-01T06:22:09.330Z",
+                "user": "userUID",
                 "version": 1
               },
               {
-                "environment": "blte8220d7ae8cb31c0",
+                "environment": "blta231f8cba2be9b18",
                 "locale": "en-us",
-                "time": "2024-02-23T09:03:32.489Z",
-                "user": "blt12345",
+                "time": "2022-06-01T06:22:09.336Z",
+                "user": "userUID",
                 "version": 1
               }
             ]
@@ -171,14 +165,12 @@
             "href": "https://www.instagram.com/"
           },
           "_metadata": {
-            "uid": "cs6031faf35ed39f55"
+            "uid": "csea2f1ebb5ec51c4e"
           },
           "icon": {
-            "uid": "blt8dd0d0c11ddb3232",
-            "created_at": "2024-02-23T09:03:28.295Z",
-            "updated_at": "2024-02-23T09:03:28.295Z",
-            "created_by": "userUID",
-            "updated_by": "userUID",
+            "uid": "blt7d03911f1919a14d",
+            "created_at": "2022-06-01T06:21:47.717Z",
+            "updated_at": "2022-06-01T06:21:47.717Z",
             "content_type": "image/svg+xml",
             "file_size": "806",
             "tags": [],
@@ -186,30 +178,30 @@
             "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
             "ACL": [],
             "is_dir": false,
-            "parent_uid": "blt8843af47602558da",
+            "parent_uid": "bltb5d3635b7dcf1e01",
             "_version": 1,
             "title": "Instagram.svg",
             "description": "",
             "publish_details": [
               {
-                "environment": "blt37dde668c27e53af",
+                "environment": "blt12968b3718077942",
                 "locale": "en-us",
-                "time": "2024-02-23T09:03:28.605Z",
-                "user": "blt12345",
+                "time": "2022-06-01T06:21:49.093Z",
+                "user": "userUID",
                 "version": 1
               },
               {
-                "environment": "blt736d333d806821d9",
+                "environment": "blt5ebb94c4d8e301eb",
                 "locale": "en-us",
-                "time": "2024-02-23T09:03:28.609Z",
-                "user": "blt12345",
+                "time": "2022-06-01T06:21:49.100Z",
+                "user": "userUID",
                 "version": 1
               },
               {
-                "environment": "blte8220d7ae8cb31c0",
+                "environment": "blta231f8cba2be9b18",
                 "locale": "en-us",
-                "time": "2024-02-23T09:03:28.613Z",
-                "user": "blt12345",
+                "time": "2022-06-01T06:21:49.107Z",
+                "user": "userUID",
                 "version": 1
               }
             ]
@@ -218,46 +210,46 @@
       ]
     },
     "copyright": {
+      "uid": "79000f4833b0be263b9bd8c0628321aa",
       "attrs": {},
       "children": [
         {
           "type": "p",
           "attrs": {},
+          "uid": "034d3eb2c34c6788996323516ae2d76b",
           "children": [
             {
               "text": "Copyright © 2024. LogoIpsum. All rights reserved."
             }
-          ],
-          "uid": "4c041d7664fa434fba8db153539fb085"
+          ]
         }
       ],
       "type": "doc",
-      "uid": "c89f6da6c014416c9b38a42f0bfb122c",
       "_version": 2
     },
-    "uid": "blt2d80d4bf9b364ca6",
+    "uid": "blta6ecb5d81397a5e1",
     "_version": 2,
     "_in_progress": false,
     "publish_details": [
       {
-        "environment": "blt37dde668c27e53af",
+        "environment": "blta231f8cba2be9b18",
         "locale": "en-us",
-        "time": "2024-02-23T12:44:14.108Z",
-        "user": "blt12345",
+        "time": "2023-02-07T11:05:24.689Z",
+        "user": "userUID",
         "version": 2
       },
       {
-        "environment": "blt736d333d806821d9",
+        "environment": "blt5ebb94c4d8e301eb",
         "locale": "en-us",
-        "time": "2024-02-23T12:44:14.108Z",
-        "user": "blt12345",
+        "time": "2023-02-07T11:05:24.682Z",
+        "user": "userUID",
         "version": 2
       },
       {
-        "environment": "blte8220d7ae8cb31c0",
+        "environment": "blt12968b3718077942",
         "locale": "en-us",
-        "time": "2024-02-23T12:44:14.108Z",
-        "user": "blt12345",
+        "time": "2023-02-07T11:05:24.671Z",
+        "user": "userUID",
         "version": 2
       }
     ]

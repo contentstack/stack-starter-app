@@ -1,13 +1,12 @@
 [
   {
     "stackHeaders": {
-      "api_key": "<api_key>"
+      "api_key": "api_key"
     },
-    "urlPath": "/assets/bltb86b76aeeb6f212a",
-    "uid": "bltb86b76aeeb6f212a",
-    "created_at": "2024-02-23T09:03:26.459Z",
-    "updated_at": "2024-02-23T09:03:26.459Z",
-    "created_by": "userUID",
+    "urlPath": "/assets/bltae4aa8c88e5b7446",
+    "uid": "bltae4aa8c88e5b7446",
+    "created_at": "2022-06-01T06:21:27.552Z",
+    "updated_at": "2022-06-01T06:21:27.552Z",
     "content_type": "application/vnd.contenstack.folder",
     "tags": [],
     "name": "Contact",
@@ -33,13 +32,12 @@
   },
   {
     "stackHeaders": {
-      "api_key": "<api_key>"
+      "api_key": "api_key"
     },
-    "urlPath": "/assets/blt70ba6ec8b02a4765",
-    "uid": "blt70ba6ec8b02a4765",
-    "created_at": "2024-02-23T09:03:26.540Z",
-    "updated_at": "2024-02-23T09:03:26.540Z",
-    "created_by": "userUID",
+    "urlPath": "/assets/bltc9331bbd0c3a6d89",
+    "uid": "bltc9331bbd0c3a6d89",
+    "created_at": "2022-06-01T06:21:28.616Z",
+    "updated_at": "2022-06-01T06:21:28.616Z",
     "content_type": "application/vnd.contenstack.folder",
     "tags": [],
     "name": "Blogs",
@@ -65,13 +63,12 @@
   },
   {
     "stackHeaders": {
-      "api_key": "<api_key>"
+      "api_key": "api_key"
     },
-    "urlPath": "/assets/blt083fba56fa3f4dc4",
-    "uid": "blt083fba56fa3f4dc4",
-    "created_at": "2024-02-23T09:03:26.621Z",
-    "updated_at": "2024-02-23T09:03:26.621Z",
-    "created_by": "userUID",
+    "urlPath": "/assets/blt80cc784fdfe6de19",
+    "uid": "blt80cc784fdfe6de19",
+    "created_at": "2022-06-01T06:21:29.636Z",
+    "updated_at": "2022-06-01T06:21:29.636Z",
     "content_type": "application/vnd.contenstack.folder",
     "tags": [],
     "name": "About Us",
@@ -97,13 +94,12 @@
   },
   {
     "stackHeaders": {
-      "api_key": "<api_key>"
+      "api_key": "api_key"
     },
-    "urlPath": "/assets/blt2b47945799d4a652",
-    "uid": "blt2b47945799d4a652",
-    "created_at": "2024-02-23T09:03:26.714Z",
-    "updated_at": "2024-02-23T09:03:26.714Z",
-    "created_by": "userUID",
+    "urlPath": "/assets/blt9e4e6644c6f22ad5",
+    "uid": "blt9e4e6644c6f22ad5",
+    "created_at": "2022-06-01T06:21:30.684Z",
+    "updated_at": "2022-06-01T06:21:30.684Z",
     "content_type": "application/vnd.contenstack.folder",
     "tags": [],
     "name": "Homepage",
@@ -129,13 +125,12 @@
   },
   {
     "stackHeaders": {
-      "api_key": "<api_key>"
+      "api_key": "api_key"
     },
-    "urlPath": "/assets/blt8843af47602558da",
-    "uid": "blt8843af47602558da",
-    "created_at": "2024-02-23T09:03:26.778Z",
-    "updated_at": "2024-02-23T09:03:26.778Z",
-    "created_by": "userUID",
+    "urlPath": "/assets/bltb5d3635b7dcf1e01",
+    "uid": "bltb5d3635b7dcf1e01",
+    "created_at": "2022-06-01T06:21:31.731Z",
+    "updated_at": "2022-06-01T06:21:31.731Z",
     "content_type": "application/vnd.contenstack.folder",
     "tags": [],
     "name": "Icons",
@@ -161,13 +156,12 @@
   },
   {
     "stackHeaders": {
-      "api_key": "<api_key>"
+      "api_key": "api_key"
     },
-    "urlPath": "/assets/bltf686c34e844a9944",
-    "uid": "bltf686c34e844a9944",
-    "created_at": "2024-02-23T09:03:26.856Z",
-    "updated_at": "2024-02-23T09:03:26.856Z",
-    "created_by": "userUID",
+    "urlPath": "/assets/bltf7736f3285172d6c",
+    "uid": "bltf7736f3285172d6c",
+    "created_at": "2022-06-01T06:21:32.762Z",
+    "updated_at": "2022-06-01T06:21:32.762Z",
     "content_type": "application/vnd.contenstack.folder",
     "tags": [],
     "name": "Authors",
@@ -193,13 +187,12 @@
   },
   {
     "stackHeaders": {
-      "api_key": "<api_key>"
+      "api_key": "api_key"
     },
-    "urlPath": "/assets/blt7711133380d02fb5",
-    "uid": "blt7711133380d02fb5",
-    "created_at": "2024-02-23T09:03:26.916Z",
-    "updated_at": "2024-02-23T09:03:26.916Z",
-    "created_by": "userUID",
+    "urlPath": "/assets/blt8946c06ff52c64c2",
+    "uid": "blt8946c06ff52c64c2",
+    "created_at": "2022-06-01T06:21:33.789Z",
+    "updated_at": "2022-06-01T06:21:33.789Z",
     "content_type": "application/vnd.contenstack.folder",
     "tags": [],
     "name": "Logo",
