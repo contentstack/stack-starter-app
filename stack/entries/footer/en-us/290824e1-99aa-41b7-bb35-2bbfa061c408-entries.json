@@ -1,0 +1,265 @@
+{
+  "blt2d80d4bf9b364ca6": {
+    "title": "Company Name",
+    "tags": [],
+    "locale": "en-us",
+    "ACL": {},
+    "logo": {
+      "uid": "blta9f8f853f5c93222",
+      "created_at": "2024-02-23T09:03:34.577Z",
+      "updated_at": "2024-02-23T09:03:34.577Z",
+      "created_by": "userUID",
+      "updated_by": "userUID",
+      "content_type": "image/svg+xml",
+      "file_size": "11085",
+      "tags": [],
+      "filename": "company-logo.svg",
+      "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+      "ACL": [],
+      "is_dir": false,
+      "parent_uid": "blt7711133380d02fb5",
+      "_version": 1,
+      "title": "Company Logo",
+      "description": "",
+      "publish_details": [
+        {
+          "environment": "blt37dde668c27e53af",
+          "locale": "en-us",
+          "time": "2024-02-23T09:03:34.987Z",
+          "user": "blt12345",
+          "version": 1
+        },
+        {
+          "environment": "blt736d333d806821d9",
+          "locale": "en-us",
+          "time": "2024-02-23T09:03:34.990Z",
+          "user": "blt12345",
+          "version": 1
+        },
+        {
+          "environment": "blte8220d7ae8cb31c0",
+          "locale": "en-us",
+          "time": "2024-02-23T09:03:34.993Z",
+          "user": "blt12345",
+          "version": 1
+        }
+      ]
+    },
+    "navigation": {
+      "link": [
+        {
+          "title": "Home",
+          "href": "/"
+        },
+        {
+          "title": "About Us",
+          "href": "/about-us"
+        },
+        {
+          "title": "Blog",
+          "href": "/blog"
+        },
+        {
+          "title": "Contact Us",
+          "href": "/contact-us"
+        }
+      ]
+    },
+    "social": {
+      "social_share": [
+        {
+          "link": {
+            "title": "Facebook",
+            "href": "https://facebook.com"
+          },
+          "_metadata": {
+            "uid": "cs6f74b23902fd5b3b"
+          },
+          "icon": {
+            "uid": "blt5f45f7899d405556",
+            "created_at": "2024-02-23T09:03:27.431Z",
+            "updated_at": "2024-02-23T09:03:27.431Z",
+            "created_by": "userUID",
+            "updated_by": "userUID",
+            "content_type": "image/svg+xml",
+            "file_size": "1288",
+            "tags": [],
+            "filename": "facebook.svg",
+            "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+            "ACL": [],
+            "is_dir": false,
+            "parent_uid": "blt8843af47602558da",
+            "_version": 1,
+            "title": "facebook.svg",
+            "publish_details": [
+              {
+                "environment": "blt37dde668c27e53af",
+                "locale": "en-us",
+                "time": "2024-02-23T09:03:27.752Z",
+                "user": "blt12345",
+                "version": 1
+              },
+              {
+                "environment": "blt736d333d806821d9",
+                "locale": "en-us",
+                "time": "2024-02-23T09:03:27.759Z",
+                "user": "blt12345",
+                "version": 1
+              },
+              {
+                "environment": "blte8220d7ae8cb31c0",
+                "locale": "en-us",
+                "time": "2024-02-23T09:03:27.764Z",
+                "user": "blt12345",
+                "version": 1
+              }
+            ]
+          }
+        },
+        {
+          "link": {
+            "title": "Twitter",
+            "href": "https://twitter.com"
+          },
+          "_metadata": {
+            "uid": "cs8523295fa7cd64f2"
+          },
+          "icon": {
+            "uid": "bltd4bf52202a4f5e6a",
+            "created_at": "2024-02-23T09:03:32.159Z",
+            "updated_at": "2024-02-23T09:03:32.159Z",
+            "created_by": "userUID",
+            "updated_by": "userUID",
+            "content_type": "image/svg+xml",
+            "file_size": "1436",
+            "tags": [],
+            "filename": "Twitter.svg",
+            "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+            "ACL": [],
+            "is_dir": false,
+            "parent_uid": "blt8843af47602558da",
+            "_version": 1,
+            "title": "Twitter.svg",
+            "publish_details": [
+              {
+                "environment": "blt37dde668c27e53af",
+                "locale": "en-us",
+                "time": "2024-02-23T09:03:32.481Z",
+                "user": "blt12345",
+                "version": 1
+              },
+              {
+                "environment": "blt736d333d806821d9",
+                "locale": "en-us",
+                "time": "2024-02-23T09:03:32.485Z",
+                "user": "blt12345",
+                "version": 1
+              },
+              {
+                "environment": "blte8220d7ae8cb31c0",
+                "locale": "en-us",
+                "time": "2024-02-23T09:03:32.489Z",
+                "user": "blt12345",
+                "version": 1
+              }
+            ]
+          }
+        },
+        {
+          "link": {
+            "title": "Instagram",
+            "href": "https://www.instagram.com/"
+          },
+          "_metadata": {
+            "uid": "cs6031faf35ed39f55"
+          },
+          "icon": {
+            "uid": "blt8dd0d0c11ddb3232",
+            "created_at": "2024-02-23T09:03:28.295Z",
+            "updated_at": "2024-02-23T09:03:28.295Z",
+            "created_by": "userUID",
+            "updated_by": "userUID",
+            "content_type": "image/svg+xml",
+            "file_size": "806",
+            "tags": [],
+            "filename": "Instagram.svg",
+            "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+            "ACL": [],
+            "is_dir": false,
+            "parent_uid": "blt8843af47602558da",
+            "_version": 1,
+            "title": "Instagram.svg",
+            "description": "",
+            "publish_details": [
+              {
+                "environment": "blt37dde668c27e53af",
+                "locale": "en-us",
+                "time": "2024-02-23T09:03:28.605Z",
+                "user": "blt12345",
+                "version": 1
+              },
+              {
+                "environment": "blt736d333d806821d9",
+                "locale": "en-us",
+                "time": "2024-02-23T09:03:28.609Z",
+                "user": "blt12345",
+                "version": 1
+              },
+              {
+                "environment": "blte8220d7ae8cb31c0",
+                "locale": "en-us",
+                "time": "2024-02-23T09:03:28.613Z",
+                "user": "blt12345",
+                "version": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "copyright": {
+      "attrs": {},
+      "children": [
+        {
+          "type": "p",
+          "attrs": {},
+          "children": [
+            {
+              "text": "Copyright © 2024. LogoIpsum. All rights reserved."
+            }
+          ],
+          "uid": "4c041d7664fa434fba8db153539fb085"
+        }
+      ],
+      "type": "doc",
+      "uid": "c89f6da6c014416c9b38a42f0bfb122c",
+      "_version": 2
+    },
+    "uid": "blt2d80d4bf9b364ca6",
+    "_version": 2,
+    "_in_progress": false,
+    "publish_details": [
+      {
+        "environment": "blt37dde668c27e53af",
+        "locale": "en-us",
+        "time": "2024-02-23T12:44:14.108Z",
+        "user": "blt12345",
+        "version": 2
+      },
+      {
+        "environment": "blt736d333d806821d9",
+        "locale": "en-us",
+        "time": "2024-02-23T12:44:14.108Z",
+        "user": "blt12345",
+        "version": 2
+      },
+      {
+        "environment": "blte8220d7ae8cb31c0",
+        "locale": "en-us",
+        "time": "2024-02-23T12:44:14.108Z",
+        "user": "blt12345",
+        "version": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "blt6e7bcfba8a637f6f": {
+    "title": "Company Name",
+    "logo": {
+      "uid": "blta9f8f853f5c93222",
+      "created_at": "2024-02-23T09:03:34.577Z",
+      "updated_at": "2024-02-23T09:03:34.577Z",
+      "created_by": "userUID",
+      "updated_by": "userUID",
+      "content_type": "image/svg+xml",
+      "file_size": "11085",
+      "tags": [],
+      "filename": "company-logo.svg",
+      "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+      "ACL": [],
+      "is_dir": false,
+      "parent_uid": "blt7711133380d02fb5",
+      "_version": 1,
+      "title": "Company Logo",
+      "description": "",
+      "publish_details": [
+        {
+          "environment": "blt37dde668c27e53af",
+          "locale": "en-us",
+          "time": "2024-02-23T09:03:34.987Z",
+          "user": "blt12345",
+          "version": 1
+        },
+        {
+          "environment": "blt736d333d806821d9",
+          "locale": "en-us",
+          "time": "2024-02-23T09:03:34.990Z",
+          "user": "blt12345",
+          "version": 1
+        },
+        {
+          "environment": "blte8220d7ae8cb31c0",
+          "locale": "en-us",
+          "time": "2024-02-23T09:03:34.993Z",
+          "user": "blt12345",
+          "version": 1
+        }
+      ]
+    },
+    "tags": [],
+    "locale": "en-us",
+    "ACL": {},
+    "navigation_menu": [
+      {
+        "label": "Home",
+        "_metadata": {
+          "uid": "cs69550988926e85d9"
+        },
+        "page_reference": [
+          {
+            "uid": "blt59a98f0cd2b233bf",
+            "_content_type_uid": "page"
+          }
+        ]
+      },
+      {
+        "label": "About Us",
+        "_metadata": {
+          "uid": "cscf5318e5388812b4"
+        },
+        "page_reference": [
+          {
+            "uid": "blt2288952379bf1bdf",
+            "_content_type_uid": "page"
+          }
+        ]
+      },
+      {
+        "label": "Blog",
+        "_metadata": {
+          "uid": "cs32274bbf10a21bec"
+        },
+        "page_reference": [
+          {
+            "uid": "bltc440015e811ba64b",
+            "_content_type_uid": "page"
+          }
+        ]
+      },
+      {
+        "label": "Contact Us",
+        "_metadata": {
+          "uid": "cs46f9812a50d8309c"
+        },
+        "page_reference": [
+          {
+            "uid": "blt776f186893809d62",
+            "_content_type_uid": "page"
+          }
+        ]
+      }
+    ],
+    "notification_bar": {
+      "show_announcement": true,
+      "announcement_text": {
+        "attrs": {},
+        "children": [
+          {
+            "type": "p",
+            "attrs": {},
+            "children": [
+              {
+                "text": "To Our Community: Please read this important update."
+              }
+            ],
+            "uid": "134c859b5fac40f3a5adf18ad9bab7ab"
+          }
+        ],
+        "type": "doc",
+        "uid": "3c89e799f81f4dd6b50daf261b2a8da1",
+        "_version": 2
+      }
+    },
+    "uid": "blt6e7bcfba8a637f6f",
+    "_version": 2,
+    "_in_progress": false,
+    "publish_details": [
+      {
+        "environment": "blt37dde668c27e53af",
+        "locale": "en-us",
+        "time": "2024-02-23T10:27:00.237Z",
+        "user": "blt12345",
+        "version": 2
+      },
+      {
+        "environment": "blt736d333d806821d9",
+        "locale": "en-us",
+        "time": "2024-02-23T10:27:00.237Z",
+        "user": "blt12345",
+        "version": 2
+      },
+      {
+        "environment": "blte8220d7ae8cb31c0",
+        "locale": "en-us",
+        "time": "2024-02-23T10:27:00.237Z",
+        "user": "blt12345",
+        "version": 2
+      }
+    ]
+  }
+}
