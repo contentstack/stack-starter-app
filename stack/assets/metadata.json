@@ -1,0 +1,184 @@
+{
+  "f11b3745-f303-4526-be8f-92d9a7c9b715-assets.json": [
+    {
+      "uid": "blt4a3759adb1809621",
+      "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+      "filename": "cloud-computing.svg"
+    },
+    {
+      "uid": "blt9b789cd23e1a26d1",
+      "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+      "filename": "Jane_Austen_Headshot.jpg"
+    },
+    {
+      "uid": "blt159f80cbbc29e9fd",
+      "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+      "filename": "map-of-brimingham-city.svg"
+    },
+    {
+      "uid": "blt6833f07dc3aaa95a",
+      "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+      "filename": "facebook.svg"
+    },
+    {
+      "uid": "blt741f3e09c6dd6bd1",
+      "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+      "filename": "bucket2.svg"
+    },
+    {
+      "uid": "blt7d03911f1919a14d",
+      "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+      "filename": "Instagram.svg"
+    },
+    {
+      "uid": "blt0f6e6cb108d1fc2b",
+      "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+      "filename": "bucket1.svg"
+    },
+    {
+      "uid": "bltf9dfadf8a372fcc6",
+      "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+      "filename": "Icon_Artwork_1.svg"
+    },
+    {
+      "uid": "bltcc442c4109628650",
+      "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+      "filename": "ben.jpeg"
+    },
+    {
+      "uid": "bltc4481dfc6cf3d300",
+      "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+      "filename": "Icon_Artwork_2.svg"
+    },
+    {
+      "uid": "blt35f21ee8919ba51d",
+      "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+      "filename": "artificial-intelligence.svg"
+    },
+    {
+      "uid": "bltb7792f6002359ae1",
+      "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+      "filename": "bucket3.svg"
+    },
+    {
+      "uid": "blt3ecc8c3f867a30ca",
+      "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+      "filename": "headless-cms-solution.svg"
+    },
+    {
+      "uid": "blt48ab0a3669ce4d9f",
+      "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+      "filename": "winning-digital-strategy.svg"
+    },
+    {
+      "uid": "blt375abc6560b67ff5",
+      "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+      "filename": "Twitter.svg"
+    },
+    {
+      "uid": "blt28b9b66af8d7942c",
+      "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+      "filename": "help-for-the-next-step.svg"
+    },
+    {
+      "uid": "blt0302ac619dee44a0",
+      "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+      "filename": "security.svg"
+    },
+    {
+      "uid": "bltcc0ba05b67d7b5b9",
+      "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+      "filename": "data-mining.svg"
+    },
+    {
+      "uid": "blt8baa54ac130ec12b",
+      "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+      "filename": "modern-cloud-ecosystem.svg"
+    },
+    {
+      "uid": "blt0b5fed03ab128d27",
+      "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+      "filename": "Charlotte_Bronte_Headshot.png"
+    },
+    {
+      "uid": "bltc97da0e954249290",
+      "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+      "filename": "Mark_Twain_Headshot.jpg"
+    },
+    {
+      "uid": "bltf42104581741eaff",
+      "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+      "filename": "W._E._B._Du_Bois_Headshot.jpg"
+    },
+    {
+      "uid": "blt9e669c7956304f08",
+      "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+      "filename": "our-story.svg"
+    },
+    {
+      "uid": "blt0e67a01398f3e8b3",
+      "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+      "filename": "company-logo.svg"
+    },
+    {
+      "uid": "blt02022497c8d3fb8d",
+      "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+      "filename": "Charles_Dickens_Headshot.jpg"
+    },
+    {
+      "uid": "blt3a98ab71986430f5",
+      "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+      "filename": "Zora_Neale_Hurston_Headshot.jpg"
+    },
+    {
+      "uid": "blt57df3fdbf412d396",
+      "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+      "filename": "about-us.svg"
+    },
+    {
+      "uid": "bltda9d862a116e3509",
+      "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+      "filename": "cierra-vega.svg"
+    },
+    {
+      "uid": "blt745cc9ee91934c1d",
+      "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+      "filename": "traditional-decoupled-_headless-cms.svg"
+    },
+    {
+      "uid": "blte98a78e89fac2d0b",
+      "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+      "filename": "thomas-crane.svg"
+    },
+    {
+      "uid": "bltfa5b152ccba746e8",
+      "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+      "filename": "business-with-al.svg"
+    },
+    {
+      "uid": "bltdee99cefdb1de1e1",
+      "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+      "filename": "AlbertEinstein.jpeg"
+    },
+    {
+      "uid": "blt20dbe60d493ba1f0",
+      "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+      "filename": "pierre-cox.svg"
+    },
+    {
+      "uid": "blt58d6d0305e57994a",
+      "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+      "filename": "alden-cantrell.svg"
+    },
+    {
+      "uid": "blt92ca77c5ced75ede",
+      "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+      "filename": "Virginia_Woolf_Headshot.jpg"
+    },
+    {
+      "uid": "blt536efa2b89cc711a",
+      "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+      "filename": "Maya_Angelou_Headshot.jpg"
+    }
+  ]
+}
