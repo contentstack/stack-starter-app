@@ -1,0 +1,720 @@
+{
+  "blt8fdc2e3271e55260": {
+    "title": "Charlotte Bronte",
+    "picture": {
+      "uid": "blt0b5fed03ab128d27",
+      "created_at": "2022-06-01T06:22:19.931Z",
+      "updated_at": "2022-06-01T06:22:19.931Z",
+      "content_type": "image/png",
+      "file_size": "99632",
+      "tags": [],
+      "filename": "Charlotte_Bronte_Headshot.png",
+      "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+      "ACL": [],
+      "is_dir": false,
+      "parent_uid": "bltf7736f3285172d6c",
+      "_version": 1,
+      "title": "Charlotte Bronte",
+      "description": "",
+      "publish_details": [
+        {
+          "environment": "blt12968b3718077942",
+          "locale": "en-us",
+          "time": "2022-06-01T06:22:21.228Z",
+          "user": "userUID",
+          "version": 1
+        },
+        {
+          "environment": "blt5ebb94c4d8e301eb",
+          "locale": "en-us",
+          "time": "2022-06-01T06:22:21.234Z",
+          "user": "userUID",
+          "version": 1
+        },
+        {
+          "environment": "blta231f8cba2be9b18",
+          "locale": "en-us",
+          "time": "2022-06-01T06:22:21.241Z",
+          "user": "userUID",
+          "version": 1
+        }
+      ]
+    },
+    "bio": "Enlisted in school at Roe Head in January 1831, aged 14 years. She left the year after to teach her sisters, Emily and Anne, at home, returning in 1835 as a governess. In 1839 she undertook the role of governess for the Sidgwick family but left after a few months to return to Haworth where the sisters opened a school but failed to attract pupils. Instead, they turned to writing and they each first published in 1846 under the pseudonyms of Currer, Ellis and Acton Bell. While her first novel, The Professor, was rejected by publishers, her second novel, Jane Eyre, was published in 1847. The sisters admitted to their Bell pseudonyms in 1848, and by the following year were celebrated in London literary circles.",
+    "tags": [],
+    "locale": "en-us",
+    "ACL": {},
+    "uid": "blt8fdc2e3271e55260",
+    "_version": 1,
+    "_in_progress": false,
+    "publish_details": [
+      {
+        "environment": "blt12968b3718077942",
+        "locale": "en-us",
+        "time": "2022-06-01T06:24:23.433Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blt5ebb94c4d8e301eb",
+        "locale": "en-us",
+        "time": "2022-06-01T06:24:23.439Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blta231f8cba2be9b18",
+        "locale": "en-us",
+        "time": "2022-06-01T06:24:23.445Z",
+        "user": "userUID",
+        "version": 1
+      }
+    ]
+  },
+  "blt8214bfd89afae734": {
+    "title": "Jane Austen",
+    "picture": {
+      "uid": "blt9b789cd23e1a26d1",
+      "created_at": "2022-06-01T06:21:37.072Z",
+      "updated_at": "2022-06-01T06:21:37.072Z",
+      "content_type": "image/jpeg",
+      "file_size": "12668",
+      "tags": [],
+      "filename": "Jane_Austen_Headshot.jpg",
+      "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+      "ACL": [],
+      "is_dir": false,
+      "parent_uid": "bltf7736f3285172d6c",
+      "_version": 1,
+      "title": "Jane Austen",
+      "description": "",
+      "publish_details": [
+        {
+          "environment": "blt12968b3718077942",
+          "locale": "en-us",
+          "time": "2022-06-01T06:21:38.520Z",
+          "user": "userUID",
+          "version": 1
+        },
+        {
+          "environment": "blt5ebb94c4d8e301eb",
+          "locale": "en-us",
+          "time": "2022-06-01T06:21:38.530Z",
+          "user": "userUID",
+          "version": 1
+        },
+        {
+          "environment": "blta231f8cba2be9b18",
+          "locale": "en-us",
+          "time": "2022-06-01T06:21:38.537Z",
+          "user": "userUID",
+          "version": 1
+        }
+      ]
+    },
+    "bio": "With the publications of Sense and Sensibility (1811), Pride and Prejudice (1813), Mansfield Park (1814) and Emma (1816), she achieved success as a published writer. She wrote two additional novels, Northanger Abbey and Persuasion, both published posthumously in 1818, and began another, eventually titled Sanditon, but died before its completion. She also left behind three volumes of juvenile writings in manuscript, a short epistolary novel Lady Susan, and another unfinished novel, The Watsons. Her six full-length novels have rarely been out of print, although they were published anonymously and brought her moderate success and little fame during her lifetime.",
+    "tags": [],
+    "locale": "en-us",
+    "ACL": {},
+    "uid": "blt8214bfd89afae734",
+    "_version": 1,
+    "_in_progress": false,
+    "publish_details": [
+      {
+        "environment": "blt12968b3718077942",
+        "locale": "en-us",
+        "time": "2022-06-01T06:24:24.429Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blt5ebb94c4d8e301eb",
+        "locale": "en-us",
+        "time": "2022-06-01T06:24:24.437Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blta231f8cba2be9b18",
+        "locale": "en-us",
+        "time": "2022-06-01T06:24:24.443Z",
+        "user": "userUID",
+        "version": 1
+      }
+    ]
+  },
+  "bltca483aacafeb59d4": {
+    "title": "Benjamin Franklin",
+    "picture": {
+      "uid": "bltcc442c4109628650",
+      "created_at": "2022-06-01T06:21:54.517Z",
+      "updated_at": "2022-06-01T06:21:54.517Z",
+      "content_type": "image/jpeg",
+      "file_size": "2850",
+      "tags": [],
+      "filename": "ben.jpeg",
+      "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+      "ACL": [],
+      "is_dir": false,
+      "parent_uid": "bltf7736f3285172d6c",
+      "_version": 1,
+      "title": "ben.jpeg",
+      "publish_details": [
+        {
+          "environment": "blt12968b3718077942",
+          "locale": "en-us",
+          "time": "2022-06-01T06:21:55.809Z",
+          "user": "userUID",
+          "version": 1
+        },
+        {
+          "environment": "blt5ebb94c4d8e301eb",
+          "locale": "en-us",
+          "time": "2022-06-01T06:21:55.816Z",
+          "user": "userUID",
+          "version": 1
+        },
+        {
+          "environment": "blta231f8cba2be9b18",
+          "locale": "en-us",
+          "time": "2022-06-01T06:21:55.823Z",
+          "user": "userUID",
+          "version": 1
+        }
+      ]
+    },
+    "bio": "Benjamin Franklin FRS FRSA FRSE was an American polymath and one of the Founding Fathers of the United States. Franklin was a leading writer, printer, political philosopher, politician, Freemason, postmaster, scientist, inventor, humorist, civic activist, statesman, and diplomat.",
+    "tags": [],
+    "locale": "en-us",
+    "ACL": {},
+    "uid": "bltca483aacafeb59d4",
+    "_version": 1,
+    "_in_progress": false,
+    "publish_details": [
+      {
+        "environment": "blt12968b3718077942",
+        "locale": "en-us",
+        "time": "2022-06-01T06:24:26.533Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blt5ebb94c4d8e301eb",
+        "locale": "en-us",
+        "time": "2022-06-01T06:24:26.538Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blta231f8cba2be9b18",
+        "locale": "en-us",
+        "time": "2022-06-01T06:24:26.543Z",
+        "user": "userUID",
+        "version": 1
+      }
+    ]
+  },
+  "bltec6531652006e798": {
+    "title": "Albert Einstein",
+    "picture": {
+      "uid": "bltdee99cefdb1de1e1",
+      "created_at": "2022-06-01T06:22:51.812Z",
+      "updated_at": "2022-06-01T06:22:51.812Z",
+      "content_type": "image/jpeg",
+      "file_size": "8494",
+      "tags": [],
+      "filename": "AlbertEinstein.jpeg",
+      "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+      "ACL": [],
+      "is_dir": false,
+      "parent_uid": "bltf7736f3285172d6c",
+      "_version": 1,
+      "title": "AlbertEinstein.jpeg",
+      "publish_details": [
+        {
+          "environment": "blt12968b3718077942",
+          "locale": "en-us",
+          "time": "2022-06-01T06:22:53.169Z",
+          "user": "userUID",
+          "version": 1
+        },
+        {
+          "environment": "blt5ebb94c4d8e301eb",
+          "locale": "en-us",
+          "time": "2022-06-01T06:22:53.173Z",
+          "user": "userUID",
+          "version": 1
+        },
+        {
+          "environment": "blta231f8cba2be9b18",
+          "locale": "en-us",
+          "time": "2022-06-01T06:22:53.176Z",
+          "user": "userUID",
+          "version": 1
+        }
+      ]
+    },
+    "bio": "World-known physicist.",
+    "tags": [],
+    "locale": "en-us",
+    "ACL": {},
+    "uid": "bltec6531652006e798",
+    "_version": 1,
+    "_in_progress": false,
+    "publish_details": [
+      {
+        "environment": "blt12968b3718077942",
+        "locale": "en-us",
+        "time": "2022-06-01T06:24:22.250Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blt5ebb94c4d8e301eb",
+        "locale": "en-us",
+        "time": "2022-06-01T06:24:22.256Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blta231f8cba2be9b18",
+        "locale": "en-us",
+        "time": "2022-06-01T06:24:22.263Z",
+        "user": "userUID",
+        "version": 1
+      }
+    ]
+  },
+  "blt82c939b0a8c5d848": {
+    "title": "Virginia Woolf",
+    "picture": {
+      "uid": "blt92ca77c5ced75ede",
+      "created_at": "2022-06-01T06:22:59.569Z",
+      "updated_at": "2022-06-01T06:22:59.569Z",
+      "content_type": "image/jpeg",
+      "file_size": "21371",
+      "tags": [],
+      "filename": "Virginia_Woolf_Headshot.jpg",
+      "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+      "ACL": [],
+      "is_dir": false,
+      "parent_uid": "bltf7736f3285172d6c",
+      "_version": 1,
+      "title": "Virginia Woolf",
+      "description": "",
+      "publish_details": [
+        {
+          "environment": "blt12968b3718077942",
+          "locale": "en-us",
+          "time": "2022-06-01T06:23:01.033Z",
+          "user": "userUID",
+          "version": 1
+        },
+        {
+          "environment": "blt5ebb94c4d8e301eb",
+          "locale": "en-us",
+          "time": "2022-06-01T06:23:01.040Z",
+          "user": "userUID",
+          "version": 1
+        },
+        {
+          "environment": "blta231f8cba2be9b18",
+          "locale": "en-us",
+          "time": "2022-06-01T06:23:01.046Z",
+          "user": "userUID",
+          "version": 1
+        }
+      ]
+    },
+    "bio": "Woolf was born into an affluent household in South Kensington, London, the seventh child in a blended family of eight which included the modernist painter Vanessa Bell. Her mother was Julia Prinsep Jackson and her father Leslie Stephen. While the boys in the family received college educations, the girls were home-schooled in English classics and Victorian literature. An important influence in Virginia Woolf's early life was the summer home the family used in St Ives, Cornwall, where she first saw the Godrevy Lighthouse, which was to become central in her novel To the Lighthouse (1927).",
+    "tags": [],
+    "locale": "en-us",
+    "ACL": {},
+    "uid": "blt82c939b0a8c5d848",
+    "_version": 1,
+    "_in_progress": false,
+    "publish_details": [
+      {
+        "environment": "blt12968b3718077942",
+        "locale": "en-us",
+        "time": "2022-06-01T06:24:29.817Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blt5ebb94c4d8e301eb",
+        "locale": "en-us",
+        "time": "2022-06-01T06:24:29.824Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blta231f8cba2be9b18",
+        "locale": "en-us",
+        "time": "2022-06-01T06:24:29.832Z",
+        "user": "userUID",
+        "version": 1
+      }
+    ]
+  },
+  "bltb6791dbab2c89292": {
+    "title": "Mark Twain",
+    "picture": {
+      "uid": "bltc97da0e954249290",
+      "created_at": "2022-06-01T06:22:22.546Z",
+      "updated_at": "2022-06-01T06:22:22.546Z",
+      "content_type": "image/jpeg",
+      "file_size": "148713",
+      "tags": [],
+      "filename": "Mark_Twain_Headshot.jpg",
+      "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+      "ACL": [],
+      "is_dir": false,
+      "parent_uid": "bltf7736f3285172d6c",
+      "_version": 1,
+      "title": "Mark Twain",
+      "description": "",
+      "publish_details": [
+        {
+          "environment": "blt12968b3718077942",
+          "locale": "en-us",
+          "time": "2022-06-01T06:22:24.033Z",
+          "user": "userUID",
+          "version": 1
+        },
+        {
+          "environment": "blt5ebb94c4d8e301eb",
+          "locale": "en-us",
+          "time": "2022-06-01T06:22:24.039Z",
+          "user": "userUID",
+          "version": 1
+        },
+        {
+          "environment": "blta231f8cba2be9b18",
+          "locale": "en-us",
+          "time": "2022-06-01T06:22:24.045Z",
+          "user": "userUID",
+          "version": 1
+        }
+      ]
+    },
+    "bio": "Twain was raised in Hannibal, Missouri, which later provided the setting for Tom Sawyer and Huckleberry Finn. He served an apprenticeship with a printer and then worked as a typesetter, contributing articles to the newspaper of his older brother Orion Clemens. He later became a riverboat pilot on the Mississippi River before heading west to join Orion in Nevada. He referred humorously to his lack of success at mining, turning to journalism for the Virginia City Territorial Enterprise. His humorous story, \"The Celebrated Jumping Frog of Calaveras County\", was published in 1865, based on a story that he heard at Angels Hotel in Angels Camp, California, where he had spent some time as a miner. The short story brought international attention and was even translated into French. His wit and satire, in prose and in speech, earned praise from critics and peers, and he was a friend to presidents, artists, industrialists, and European royalty.",
+    "tags": [],
+    "locale": "en-us",
+    "ACL": {},
+    "uid": "bltb6791dbab2c89292",
+    "_version": 1,
+    "_in_progress": false,
+    "publish_details": [
+      {
+        "environment": "blt12968b3718077942",
+        "locale": "en-us",
+        "time": "2022-06-01T06:24:30.910Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blt5ebb94c4d8e301eb",
+        "locale": "en-us",
+        "time": "2022-06-01T06:24:30.918Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blta231f8cba2be9b18",
+        "locale": "en-us",
+        "time": "2022-06-01T06:24:30.926Z",
+        "user": "userUID",
+        "version": 1
+      }
+    ]
+  },
+  "blt3a1fe76a6363c2f9": {
+    "title": "Maya Angelou",
+    "picture": {
+      "uid": "blt536efa2b89cc711a",
+      "created_at": "2022-06-01T06:23:02.365Z",
+      "updated_at": "2022-06-01T06:23:02.365Z",
+      "content_type": "image/jpeg",
+      "file_size": "41226",
+      "tags": [],
+      "filename": "Maya_Angelou_Headshot.jpg",
+      "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+      "ACL": [],
+      "is_dir": false,
+      "parent_uid": "bltf7736f3285172d6c",
+      "_version": 1,
+      "title": "Maya Angelou",
+      "description": "",
+      "publish_details": [
+        {
+          "environment": "blt12968b3718077942",
+          "locale": "en-us",
+          "time": "2022-06-01T06:23:03.865Z",
+          "user": "userUID",
+          "version": 1
+        },
+        {
+          "environment": "blt5ebb94c4d8e301eb",
+          "locale": "en-us",
+          "time": "2022-06-01T06:23:03.872Z",
+          "user": "userUID",
+          "version": 1
+        },
+        {
+          "environment": "blta231f8cba2be9b18",
+          "locale": "en-us",
+          "time": "2022-06-01T06:23:03.877Z",
+          "user": "userUID",
+          "version": 1
+        }
+      ]
+    },
+    "bio": "Became a poet and writer after a string of odd jobs during her young adulthood. These included fry cook, sex worker, nightclub performer, Porgy and Bess cast member, Southern Christian Leadership Conference coordinator, and correspondent in Egypt and Ghana during the decolonization of Africa. She was also an actress, writer, director, and producer of plays, movies, and public television programs. In 1982, she was named the first Reynolds Professor of American Studies at Wake Forest University in Winston-Salem, North Carolina. She was active in the Civil Rights Movement and worked with Martin Luther King Jr. and Malcolm X. Beginning in the 1990s, she made approximately 80 appearances a year on the lecture circuit, something she continued into her eighties. In 1993, Angelou recited her poem \"On the Pulse of Morning\" (1993) at the first inauguration of Bill Clinton, making her the first poet to make an inaugural recitation since Robert Frost at the inauguration of John F. Kennedy in 1961.",
+    "tags": [],
+    "locale": "en-us",
+    "ACL": {},
+    "uid": "blt3a1fe76a6363c2f9",
+    "_version": 1,
+    "_in_progress": false,
+    "publish_details": [
+      {
+        "environment": "blt12968b3718077942",
+        "locale": "en-us",
+        "time": "2022-06-01T06:24:27.619Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blt5ebb94c4d8e301eb",
+        "locale": "en-us",
+        "time": "2022-06-01T06:24:27.626Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blta231f8cba2be9b18",
+        "locale": "en-us",
+        "time": "2022-06-01T06:24:27.629Z",
+        "user": "userUID",
+        "version": 1
+      }
+    ]
+  },
+  "bltdb399a9867eb7aa6": {
+    "title": "Charles Dickens",
+    "picture": {
+      "uid": "blt02022497c8d3fb8d",
+      "created_at": "2022-06-01T06:22:32.231Z",
+      "updated_at": "2022-06-01T06:22:32.231Z",
+      "content_type": "image/jpeg",
+      "file_size": "31539",
+      "tags": [],
+      "filename": "Charles_Dickens_Headshot.jpg",
+      "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+      "ACL": [],
+      "is_dir": false,
+      "parent_uid": "bltf7736f3285172d6c",
+      "_version": 1,
+      "title": "Charles Dickens",
+      "description": "",
+      "publish_details": [
+        {
+          "environment": "blt12968b3718077942",
+          "locale": "en-us",
+          "time": "2022-06-01T06:22:33.613Z",
+          "user": "userUID",
+          "version": 1
+        },
+        {
+          "environment": "blt5ebb94c4d8e301eb",
+          "locale": "en-us",
+          "time": "2022-06-01T06:22:33.617Z",
+          "user": "userUID",
+          "version": 1
+        },
+        {
+          "environment": "blta231f8cba2be9b18",
+          "locale": "en-us",
+          "time": "2022-06-01T06:22:33.621Z",
+          "user": "userUID",
+          "version": 1
+        }
+      ]
+    },
+    "bio": "Born in Portsmouth, Dickens left school to work in a factory when his father was incarcerated in a debtors' prison. Despite his lack of formal education, he edited a weekly journal for 20 years, wrote 15 novels, five novellas, hundreds of short stories and non-fiction articles, lectured and performed readings extensively, was an indefatigable letter writer, and campaigned vigorously for children's rights, education, and other social reforms.",
+    "tags": [],
+    "locale": "en-us",
+    "ACL": {},
+    "uid": "bltdb399a9867eb7aa6",
+    "_version": 1,
+    "_in_progress": false,
+    "publish_details": [
+      {
+        "environment": "blt12968b3718077942",
+        "locale": "en-us",
+        "time": "2022-06-01T06:24:28.762Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blt5ebb94c4d8e301eb",
+        "locale": "en-us",
+        "time": "2022-06-01T06:24:28.769Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blta231f8cba2be9b18",
+        "locale": "en-us",
+        "time": "2022-06-01T06:24:28.776Z",
+        "user": "userUID",
+        "version": 1
+      }
+    ]
+  },
+  "blt986439e761b6d235": {
+    "title": "W. E. B. Du Bois",
+    "picture": {
+      "uid": "bltf42104581741eaff",
+      "created_at": "2022-06-01T06:22:25.155Z",
+      "updated_at": "2022-06-01T06:22:25.155Z",
+      "content_type": "image/jpeg",
+      "file_size": "25872",
+      "tags": [],
+      "filename": "W._E._B._Du_Bois_Headshot.jpg",
+      "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+      "ACL": [],
+      "is_dir": false,
+      "parent_uid": "bltf7736f3285172d6c",
+      "_version": 1,
+      "title": "W.E. B. Du Bois",
+      "description": "",
+      "publish_details": [
+        {
+          "environment": "blt12968b3718077942",
+          "locale": "en-us",
+          "time": "2022-06-01T06:22:26.447Z",
+          "user": "userUID",
+          "version": 1
+        },
+        {
+          "environment": "blt5ebb94c4d8e301eb",
+          "locale": "en-us",
+          "time": "2022-06-01T06:22:26.454Z",
+          "user": "userUID",
+          "version": 1
+        },
+        {
+          "environment": "blta231f8cba2be9b18",
+          "locale": "en-us",
+          "time": "2022-06-01T06:22:26.461Z",
+          "user": "userUID",
+          "version": 1
+        }
+      ]
+    },
+    "bio": "An American sociologist, socialist, historian, civil rights activist, Pan-Africanist, author, writer and editor. Born in Great Barrington, Massachusetts, Du Bois grew up in a relatively tolerant and integrated community, and after completing graduate work at the University of Berlin and Harvard, where he was the first African American to earn a doctorate, he became a professor of history, sociology and economics at Atlanta University. Du Bois was one of the founders of the National Association for the Advancement of Colored People (NAACP) in 1909.",
+    "tags": [],
+    "locale": "en-us",
+    "ACL": {},
+    "uid": "blt986439e761b6d235",
+    "_version": 1,
+    "_in_progress": false,
+    "publish_details": [
+      {
+        "environment": "blt12968b3718077942",
+        "locale": "en-us",
+        "time": "2022-06-01T06:24:25.436Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blt5ebb94c4d8e301eb",
+        "locale": "en-us",
+        "time": "2022-06-01T06:24:25.442Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blta231f8cba2be9b18",
+        "locale": "en-us",
+        "time": "2022-06-01T06:24:25.447Z",
+        "user": "userUID",
+        "version": 1
+      }
+    ]
+  },
+  "blte8a94252ffb14be2": {
+    "title": "Zora Neale Hurston",
+    "picture": {
+      "uid": "blt3a98ab71986430f5",
+      "created_at": "2022-06-01T06:22:34.562Z",
+      "updated_at": "2022-06-01T06:22:34.562Z",
+      "content_type": "image/jpeg",
+      "file_size": "34781",
+      "tags": [],
+      "filename": "Zora_Neale_Hurston_Headshot.jpg",
+      "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+      "ACL": [],
+      "is_dir": false,
+      "parent_uid": "bltf7736f3285172d6c",
+      "_version": 1,
+      "title": "Zora Neale Hurston",
+      "description": "",
+      "publish_details": [
+        {
+          "environment": "blt12968b3718077942",
+          "locale": "en-us",
+          "time": "2022-06-01T06:22:35.961Z",
+          "user": "userUID",
+          "version": 1
+        },
+        {
+          "environment": "blt5ebb94c4d8e301eb",
+          "locale": "en-us",
+          "time": "2022-06-01T06:22:35.965Z",
+          "user": "userUID",
+          "version": 1
+        },
+        {
+          "environment": "blta231f8cba2be9b18",
+          "locale": "en-us",
+          "time": "2022-06-01T06:22:35.972Z",
+          "user": "userUID",
+          "version": 1
+        }
+      ]
+    },
+    "bio": "In her early career, Hurston conducted anthropological and ethnographic research while a student at Barnard College and Columbia University. She had an interest in African-American and Caribbean folklore, and how these contributed to the community's identity.",
+    "tags": [],
+    "locale": "en-us",
+    "ACL": {},
+    "uid": "blte8a94252ffb14be2",
+    "_version": 1,
+    "_in_progress": false,
+    "publish_details": [
+      {
+        "environment": "blt12968b3718077942",
+        "locale": "en-us",
+        "time": "2022-06-01T06:24:21.144Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blt5ebb94c4d8e301eb",
+        "locale": "en-us",
+        "time": "2022-06-01T06:24:21.151Z",
+        "user": "userUID",
+        "version": 1
+      },
+      {
+        "environment": "blta231f8cba2be9b18",
+        "locale": "en-us",
+        "time": "2022-06-01T06:24:21.157Z",
+        "user": "userUID",
+        "version": 1
+      }
+    ]
+  }
+}

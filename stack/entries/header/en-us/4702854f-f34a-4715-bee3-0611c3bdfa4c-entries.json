@@ -1,0 +1,145 @@
+{
+  "blt07de95939cbd606b": {
+    "title": "Company Name",
+    "logo": {
+      "uid": "blt0e67a01398f3e8b3",
+      "created_at": "2022-06-01T06:22:29.898Z",
+      "updated_at": "2022-06-01T06:22:29.898Z",
+      "content_type": "image/svg+xml",
+      "file_size": "11085",
+      "tags": [],
+      "filename": "company-logo.svg",
+      "url": "https://images.contentstack.io/v3/assets/<api_key>/<asset_uid>/<entity_uid>/<asset_name>",
+      "ACL": [],
+      "is_dir": false,
+      "parent_uid": "blt8946c06ff52c64c2",
+      "_version": 1,
+      "title": "Company Logo",
+      "description": "",
+      "publish_details": [
+        {
+          "environment": "blt12968b3718077942",
+          "locale": "en-us",
+          "time": "2022-06-01T06:22:31.172Z",
+          "user": "userUID",
+          "version": 1
+        },
+        {
+          "environment": "blt5ebb94c4d8e301eb",
+          "locale": "en-us",
+          "time": "2022-06-01T06:22:31.177Z",
+          "user": "userUID",
+          "version": 1
+        },
+        {
+          "environment": "blta231f8cba2be9b18",
+          "locale": "en-us",
+          "time": "2022-06-01T06:22:31.183Z",
+          "user": "userUID",
+          "version": 1
+        }
+      ]
+    },
+    "tags": [],
+    "locale": "en-us",
+    "ACL": {},
+    "navigation_menu": [
+      {
+        "label": "Home",
+        "_metadata": {
+          "uid": "cs69550988926e85d9"
+        },
+        "page_reference": [
+          {
+            "uid": "blt90e99350449483ce",
+            "_content_type_uid": "page"
+          }
+        ]
+      },
+      {
+        "label": "About Us",
+        "_metadata": {
+          "uid": "cscf5318e5388812b4"
+        },
+        "page_reference": [
+          {
+            "uid": "bltc33628447a3d7283",
+            "_content_type_uid": "page"
+          }
+        ]
+      },
+      {
+        "label": "Blog",
+        "_metadata": {
+          "uid": "cs32274bbf10a21bec"
+        },
+        "page_reference": [
+          {
+            "uid": "blt55cac5ddaa5eee63",
+            "_content_type_uid": "page"
+          }
+        ]
+      },
+      {
+        "label": "Contact Us",
+        "_metadata": {
+          "uid": "cs46f9812a50d8309c"
+        },
+        "page_reference": [
+          {
+            "uid": "blteb31a195576c2dd4",
+            "_content_type_uid": "page"
+          }
+        ]
+      }
+    ],
+    "notification_bar": {
+      "show_announcement": true,
+      "announcement_text": {
+        "uid": "dac78ec95c73fe615a0e817b3ad6cbe6",
+        "attrs": {},
+        "children": [
+          {
+            "type": "p",
+            "attrs": {},
+            "uid": "71a62df79eedc805bc925f6f98bf9171",
+            "children": [
+              {
+                "text": "To Our Community: Please read this important update."
+              }
+            ]
+          }
+        ],
+        "type": "doc",
+        "_version": 2,
+        "_updated_by": "cs-migration/v1-v2"
+      }
+    },
+    "uid": "blt07de95939cbd606b",
+    "_version": 2,
+    "_in_progress": false,
+    "publish_details": [
+      {
+        "environment": "blta231f8cba2be9b18",
+        "locale": "en-us",
+        "time": "2022-06-01T06:24:36.625Z",
+        "user": "userUID",
+        "version": 2
+      },
+      {
+        "environment": "blt12968b3718077942",
+        "locale": "en-us",
+        "time": "2022-06-01T06:24:36.616Z",
+        "user": "userUID",
+        "version": 2
+      },
+      {
+        "environment": "blt5ebb94c4d8e301eb",
+        "locale": "en-us",
+        "time": "2022-06-01T06:24:36.621Z",
+        "user": "userUID",
+        "version": 2
+      }
+    ]
+  }
+}
