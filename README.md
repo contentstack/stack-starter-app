@@ -1,3 +1,6 @@
+> [!WARNING]
+> **This repo is deprecated and no longer maintained. Security updates are not supported. We recommend avoiding its use.**
+
 # Contentstack's starter app content
 
 This repository aims to provide sample stack content to users for the implementation of marketing websites. An easy way to import this stack content is by using the ‘seed’ command. 
